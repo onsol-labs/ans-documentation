@@ -1,9 +1,9 @@
 # Getting Started
 
-## Our Vision
+### Searching for ANS Domains
 
-{% hint style="info" %}
-**Good to know:** a good vision statement shows the long-term goals of the company without getting too deep into strategy, implementation, or product specifics.
-{% endhint %}
+To search for a any **ANS** domain name visit one of the following links:
 
-Our company vision is to **be the authoritative reference point for environmentally conscious buyers** and to **encourage more sustainable business practices** through curating beautiful, practical, consciously-produced products.
+* .Abc -> [https://abc.onsol.io/](https://abc.onsol.io/)&#x20;
+* .Poor -> [https://thepoor.club/](https://thepoor.club)
+* .Bonk ->[https://bonk.onsol.io/](https://bonk.onsol.io/)
