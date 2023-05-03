@@ -10,3 +10,5 @@ TldParser library
 
 ### How to integrate ANS protocol:
 
+TBD - To be detailed
+
