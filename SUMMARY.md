@@ -5,7 +5,7 @@
 * [Overview](README.md)
   * [What is a domain/TLD](about-us/overview/what-is-a-domain-tld.md)
   * [ANS Features](about-us/overview/ans-features.md)
-  * [Use cases / Benefits of using WEB3 domains](about-us/overview/use-cases-benefits-of-using-web3-domains.md)
+  * [Benefits of using WEB3 domains](about-us/overview/benefits-of-using-web3-domains.md)
   * [ANS TLD’s](about-us/overview/ans-tlds.md)
 * [Getting Started](about-us/getting-started/README.md)
   * [Purchasing a domain name](about-us/getting-started/purchasing-a-domain-name.md)
