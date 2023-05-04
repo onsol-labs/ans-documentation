@@ -8,7 +8,7 @@
   * [Benefits of using WEB3 domains](about-us/overview/use-cases-benefits-of-using-web3-domains.md)
   * [ANS TLD’s](about-us/overview/ans-tlds.md)
 * [Getting Started](about-us/getting-started/README.md)
-  * [Purchasing a domain name](about-us/getting-started/purchasing-a-domain-name.md)
+  * [Purchasing a domain](about-us/getting-started/purchasing-a-domain.md)
   * [Selling a domain](about-us/getting-started/selling-a-domain.md)
   * [Manage your domains](about-us/getting-started/manage-your-domains.md)
   * [Getting a new TLD](about-us/getting-started/getting-a-new-tld.md)

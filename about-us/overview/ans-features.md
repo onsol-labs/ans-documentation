@@ -8,4 +8,4 @@ Our TLD Program, also known as TLD House, has the capacity to support an unlimit
 
 #### Domain Wrapping
 
-All domains are available for wrapping as NFTs and listing on secondary markets through our own NFT Wrapping contract (NameHouse) - a Solana Program that enables any domain from any new TLD to be wrapped as an NFT and be traded on any SOLANA NFT marketplace.
+All domains are available for wrapping as **NFTs** and listing on secondary markets through our own NFT Wrapping contract - NameHouse - a Solana Program that enables any domain from any new TLD to be wrapped as an NFT and traded on any SOLANA NFT marketplace.

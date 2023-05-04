@@ -8,7 +8,7 @@ Based on SNS, we rewrote it in Anchor, added the possibility to resize their acc
 
 ### Tld House
 
-A Solana Program that gives any project the possibility to have their own Tld (**.anything**) on Solana to give/sell or use in any way they want in their community.&#x20;
+A Solana Program that gives any project the possibility to have their own TLD (**.anything**) on Solana to give/sell or use in any way they want in their community.&#x20;
 
 ### Name House
 

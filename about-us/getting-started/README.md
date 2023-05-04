@@ -4,6 +4,7 @@
 
 To search for a any **ANS** domain name visit one of the following links:
 
-* .Abc -> [https://abc.onsol.io/](https://abc.onsol.io/)&#x20;
-* .Poor -> [https://thepoor.club/](https://thepoor.club)
-* .Bonk ->[https://bonk.onsol.io/](https://bonk.onsol.io/)
+* .abc -> [https://abc.onsol.io/](https://abc.onsol.io/)&#x20;
+* .poor -> [https://thepoor.club/](https://thepoor.club)
+* .bonk ->[https://bonk.onsol.io/](https://bonk.onsol.io/)
+* more to come
