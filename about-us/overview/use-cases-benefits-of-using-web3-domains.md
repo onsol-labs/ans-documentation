@@ -1,4 +1,4 @@
-# Use cases / Benefits of using WEB3 domains
+# Benefits of using WEB3 domains
 
 * an easy-to-remember address for sending and receiving cryptocurrency, making transactions as easy as sending an email
 * the domain only belong to the owner, which can not be censored
