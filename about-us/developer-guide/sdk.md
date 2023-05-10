@@ -12,6 +12,8 @@ npm install @onsol/tldparser
 
 The following code shows how to get the owner of a domain name
 
+* it works with any ANS domain
+
 ```typescript
 import { TldParser } from "@onsol/tldparser";
 
