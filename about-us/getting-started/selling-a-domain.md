@@ -11,7 +11,7 @@ When a user wraps their domain:\
 
 
 1. The domain is transferred to an escrow account
-2. And the smart contract creates an NFT that is transferred to the user in return
-3. When the NFT is unwrapped again, the program will burn the NFT and return the domain to the owner
+2. The smart contract creates an NFT that is transferred to the user in return
+3. When the NFT is unwrapped, the program will burn the NFT and return the domain to the owner
 
 **Users can wrap and unwrap their domain names a limitless number of times**&#x20;
