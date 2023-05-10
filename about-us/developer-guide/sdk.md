@@ -17,14 +17,14 @@ import { TldParser } from "@onsol/tldparser";
 
 const RPC_URL = 'https://api.mainnet-beta.solana.com';
 
-// the ANS domain you want to resolve the public key for
+// the ANS domain name you want to resolve the owner public key for
 const domain = "miester.abc";
 
 // initialize
 const connection = new Connection(RPC_URL);
 const parser = new TldParser(connection);
 
-// get the owner of a domain name
+// get the owner pubkey of a domain name
 const owner = await parser.getOwnerFromDomainTld(domain);
 
 ```
