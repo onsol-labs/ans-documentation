@@ -8,7 +8,7 @@
 npm install @onsol/tldparser
 ```
 
-#### 2. Direct Lookup
+#### 2. Domain Resolution
 
 The following code shows how to get the owner of a domain name
 
