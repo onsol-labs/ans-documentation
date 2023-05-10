@@ -2,9 +2,7 @@
 
 ## ANS
 
-ANS - alternative domain name service: a Solana Program that allows users create human readable domain names that can be used in place of a Public Key.&#x20;
-
-Based on SNS, we rewrote it in Anchor, added the possibility to _**resize**_ accounts and the option to make the domains _**renewable**_.
+ANS - Alternative Name Service: a Solana Program that allows users create human readable domain names that can be used in place of a Public Key.&#x20;
 
 Deployed on [Mainnet](https://explorer.solana.com/address/ALTNSZ46uaAUU7XUV6awvdorLGqAsPwa9shm7h4uP2FK) and [Devnet](https://explorer.solana.com/address/ALTNSZ46uaAUU7XUV6awvdorLGqAsPwa9shm7h4uP2FK?cluster=devnet).
 
@@ -28,8 +26,9 @@ Domain NFT Wrapping / Unwrapping: a Solana Program that enables any domain from 
 
 Deployed on [Mainnet](https://explorer.solana.com/address/NH3uX6FtVE2fNREAioP7hm5RaozotZxeL6khU1EHx51) and [Devnet](https://explorer.solana.com/address/NH3uX6FtVE2fNREAioP7hm5RaozotZxeL6khU1EHx51?cluster=devnet).
 
-<pre><code><a data-footnote-ref href="#user-content-fn-1">NH3uX6FtVE2fNREAioP7hm5RaozotZxeL6khU1EHx51</a>
-</code></pre>
+```
+NH3uX6FtVE2fNREAioP7hm5RaozotZxeL6khU1EHx51
+```
 
 ## Bridge Name Service 👀
 
@@ -40,5 +39,3 @@ Deployed on [Mainnet](https://explorer.solana.com/address/BNSwwSqW7HkAviEjNYhkMK
 ```
 BNSwwSqW7HkAviEjNYhkMKws9jRerzMwb6yvKyYHPeqT
 ```
-
-[^1]: 
