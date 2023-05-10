@@ -16,6 +16,7 @@
   * [Programs](about-us/developer-guide/programs.md)
   * [Structure/Architecture](about-us/developer-guide/structure-architecture.md)
   * [SDK](about-us/developer-guide/sdk.md)
+  * [Records](about-us/developer-guide/records.md)
 * [ANS Contributors](about-us/ans-contributors/README.md)
   * [Current Contributors](about-us/ans-contributors/current-contributors.md)
   * [How to become a contributor](about-us/ans-contributors/how-to-become-a-contributor.md)
