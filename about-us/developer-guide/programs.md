@@ -32,7 +32,7 @@ NH3uX6FtVE2fNREAioP7hm5RaozotZxeL6khU1EHx51
 
 ## Bridge Name Service 👀
 
-TBD - to be detailed
+A Solana Program that takes bridged .eth domains (through Wormhole) and emits an ANS .eth domain in exchange.
 
 Deployed on [Mainnet](https://explorer.solana.com/address/BNSwwSqW7HkAviEjNYhkMKws9jRerzMwb6yvKyYHPeqT) and [Devnet](https://explorer.solana.com/address/BNSwwSqW7HkAviEjNYhkMKws9jRerzMwb6yvKyYHPeqT?cluster=devnet).
 
