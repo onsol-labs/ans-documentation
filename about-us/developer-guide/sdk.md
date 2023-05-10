@@ -142,6 +142,7 @@ getOwnerDomains(new PublicKey(""), "poor");
 
 ```typescript
 import { getAllTld } from "@onsol/tldparser";
+import { Connection } from "@solana/web3.js";
 
 const RPC_URL = 'https://api.mainnet-beta.solana.com';
 
