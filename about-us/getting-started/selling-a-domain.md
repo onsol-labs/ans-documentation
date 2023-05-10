@@ -1,7 +1,3 @@
----
-description: to be filled
----
-
 # Selling a domain
 
 To sell a domain users need to **wrap** their domains as NFTs\
@@ -14,4 +10,6 @@ When a user wraps their domain:\
 2. The smart contract creates an NFT that is transferred to the user in return
 3. When the NFT is unwrapped, the program will burn the NFT and return the domain to the owner
 
-**Users can wrap and unwrap their domain names a limitless number of times**&#x20;
+**Users can wrap and unwrap their domain names a limitless number of times** \
+\
+Once a domain is wrapped (as an NFT) they can view it in their wallet and trade it on any NFT marketplace.
