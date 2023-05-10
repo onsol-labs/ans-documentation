@@ -17,8 +17,8 @@ import { TldParser } from "@onsol/tldparser";
 
 const RPC_URL = 'https://api.mainnet-beta.solana.com';
 
-// the address you want to resolve the public key for
-const domainName = "miester.abc";
+// the ANS domain you want to resolve the public key for
+const domain = "miester.abc";
 
 // initialize
 const connection = new Connection(RPC_URL);
