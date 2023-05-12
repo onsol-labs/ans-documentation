@@ -1,4 +1,4 @@
 # Governance
 
-TBD - to be detailed
+In progress
 
