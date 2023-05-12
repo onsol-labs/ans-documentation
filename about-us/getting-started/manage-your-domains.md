@@ -1,6 +1,6 @@
 # Manage your domains
 
-To manage your domains, connect your wallet and click on **my domains.**
+To manage your domains, go to [**abc.onsol.io**](https://abc.onsol.io)**,** connect your wallet and click on **my domains.**
 
 <figure><img src="../../.gitbook/assets/my_domains.png" alt=""><figcaption><p>My Domains</p></figcaption></figure>
 
@@ -24,3 +24,8 @@ You can edit the records of your domain by clicking the Records button under the
 
 <figure><img src="../../.gitbook/assets/records.png" alt=""><figcaption><p>Edit Records</p></figcaption></figure>
 
+### Transfer a domain
+
+Easily transfer your domain to another Solana address
+
+![](../../.gitbook/assets/transfer.png)
