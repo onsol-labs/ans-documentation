@@ -10,7 +10,7 @@ npm install @onsol/tldparser
 
 #### 2. Domain Resolution
 
-The following code shows how to get the Publick Key owner of a domain name
+The following code shows how to get the Public Key owner of a domain name
 
 * works with **any ANS TLD**
 
