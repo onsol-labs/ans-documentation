@@ -6,7 +6,7 @@
 2. Search for the domain name you want. In this example I have used "_johncena_” and this domain appears to be unregistered\
 
 
-<figure><img src="../../.gitbook/assets/claim_your domain.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/home_page.jpeg" alt=""><figcaption><p>Claim Domain</p></figcaption></figure>
 
 3. Select the number of **years** for which you want to own the domain
 
