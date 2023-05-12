@@ -26,7 +26,7 @@ The following records are currently available on ANS Protocol:
 #### Resolving a record:
 
 ```typescript
-import { NameRecordHeader, getDomainKey } from "@onsol/tldparser";
+import { NameRecordHeader, getDomainKey, Record } from "@onsol/tldparser";
 import { Connection } from "@solana/web3.js";
 
 const RPC_URL = 'https://api.mainnet-beta.solana.com';
