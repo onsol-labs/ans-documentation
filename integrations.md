@@ -14,12 +14,12 @@ Expanding its utility, you can utilize our domain names across the following pro
 
 ### **Marketplaces:**
 
-| Name           | About                                                                                                                              |
-| -------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| **MagicEden**  | <p><a href="https://twitter.com/MagicEden">https://twitter.com/MagicEden</a><br>One of the biggest web3 marketplaces</p>           |
-| **Hyperspace** | <p><a href="https://twitter.com/hyperspacexyz">https://twitter.com/hyperspacexyz</a><br>The most powerful NFT trading platform</p> |
-| **Hadeswap**   | [https://twitter.com/hadeswap](https://twitter.com/hadeswap)                                                                       |
-| **Tensor**     | [https://twitter.com/tensor\_hq](https://twitter.com/tensor\_hq)                                                                   |
+| Name           | About                                                                  |
+| -------------- | ---------------------------------------------------------------------- |
+| **MagicEden**  | [https://twitter.com/MagicEden](https://twitter.com/MagicEden)         |
+| **Hyperspace** | [https://twitter.com/hyperspacexyz](https://twitter.com/hyperspacexyz) |
+| **Hadeswap**   | [https://twitter.com/hadeswap](https://twitter.com/hadeswap)           |
+| **Tensor**     | [https://twitter.com/tensor\_hq](https://twitter.com/tensor\_hq)       |
 
 ### **Tools:**
 
