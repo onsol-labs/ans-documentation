@@ -6,10 +6,11 @@ Expanding its utility, you can utilize our domain names across the following pro
 
 ### **Wallets:**
 
-| Name                       | About                                                                    |
-| -------------------------- | ------------------------------------------------------------------------ |
-| **Phantom**                | [https://twitter.com/phantom](https://twitter.com/phantom)               |
-| **Backpack** (in progress) | [https://twitter.com/xNFT\_Backpack](https://twitter.com/xNFT\_Backpack) |
+| Name                       | About                                                                        |
+| -------------------------- | ---------------------------------------------------------------------------- |
+| **Phantom**                | [https://twitter.com/phantom](https://twitter.com/phantom)                   |
+| **Solflare**               | [https://twitter.com/solflare\_wallet](https://twitter.com/solflare\_wallet) |
+| **Backpack** (in progress) | [https://twitter.com/xNFT\_Backpack](https://twitter.com/xNFT\_Backpack)     |
 
 ### **Marketplaces:**
 
@@ -18,6 +19,7 @@ Expanding its utility, you can utilize our domain names across the following pro
 | **MagicEden**  | <p><a href="https://twitter.com/MagicEden">https://twitter.com/MagicEden</a><br>One of the biggest web3 marketplaces</p>           |
 | **Hyperspace** | <p><a href="https://twitter.com/hyperspacexyz">https://twitter.com/hyperspacexyz</a><br>The most powerful NFT trading platform</p> |
 | **Hadeswap**   | [https://twitter.com/hadeswap](https://twitter.com/hadeswap)                                                                       |
+| **Tensor**     | [https://twitter.com/tensor\_hq](https://twitter.com/tensor\_hq)                                                                   |
 
 ### **Tools:**
 
