@@ -1,6 +1,6 @@
-# SDK
+# AD SDK
 
-### How to integrate ANS protocol:
+### How to integrate AllDomains Protocol:
 
 #### 1. Installation
 
@@ -12,7 +12,7 @@ npm install @onsol/tldparser
 
 The following code shows how to get the Public Key owner of a domain name
 
-* works with **any ANS TLD**
+* works with **any AllDomomains TLD**
 
 ```typescript
 import { TldParser } from "@onsol/tldparser";
@@ -63,7 +63,7 @@ async function getOwnerDomains(owner){
     const parser = new TldParser(connection);
     
     // list of name record header public keys owned by a user
-    const domainRecordPks = await ans.getAllUserDomains(owner);
+    const domainRecordPks = await parser.getAllUserDomains(owner);
     let domains = [];
     for (var recordPubkey of domainRecordPks) {
         //get the name record of a domain pk
@@ -73,10 +73,10 @@ async function getOwnerDomains(owner){
         const parentNameRecord = await NameRecordHeader.fromAccountAddress(connection, nameRecord.parentName);
         
         //get the tld
-        const tld = await ans.getTldFromParentAccount(nameRecord.parentName);
+        const tld = await parser.getTldFromParentAccount(nameRecord.parentName);
         
         //get the domain in string form
-        const domain = await ans.reverseLookupNameAccount(recordPubkey, parentNameRecord?.owner);
+        const domain = await parser.reverseLookupNameAccount(recordPubkey, parentNameRecord?.owner);
         
         domains.push(`${domain}${tld}`);
     }
@@ -118,7 +118,7 @@ async function getOwnerDomains(owner, tld){
         const parentNameRecord = await NameRecordHeader.fromAccountAddress(connection, nameRecord.parentName);
         
         //get the domain in string form
-        const domain = await ans.reverseLookupNameAccount(recordPubkey, parentNameRecord?.owner);
+        const domain = await parser.reverseLookupNameAccount(recordPubkey, parentNameRecord?.owner);
         
         domains.push(`${domain}.${tld}`);
     }
@@ -138,7 +138,7 @@ getOwnerDomains(new PublicKey(""), "poor");
 
 ####
 
-#### 5.  Get all active ANS TLDs
+#### 5.  Get all active AllDomains TLDs
 
 ```typescript
 import { getAllTld } from "@onsol/tldparser";
@@ -149,6 +149,6 @@ const RPC_URL = 'https://api.mainnet-beta.solana.com';
 // initialize a Solana Connection
 const connection = new Connection(RPC_URL);
 
-//get all active ANS TLDs
+//get all active AllDomains TLDs
 const allTlds = await getAllTld(connection);
 ```

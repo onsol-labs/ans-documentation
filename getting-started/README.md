@@ -1,10 +1,7 @@
 # Getting Started
 
-### Searching for ANS Domains
+### Searching for AllDomains Domains
 
-To search for a any **ANS** domain name visit one of the following links:
+To search for a any AllDomains domain name visit our website:
 
-* .abc -> [https://abc.onsol.io/](https://abc.onsol.io/)&#x20;
-* .poor -> [https://thepoor.club/](https://thepoor.club)
-* .bonk ->[https://bonk.onsol.io/](https://bonk.onsol.io/)
-* more to come
+* [**https://alldomains.id/**](https://alldomains.id)

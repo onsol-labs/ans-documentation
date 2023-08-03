@@ -23,5 +23,12 @@ pub struct NameRecordHeader {
     // defaults to 0
     // if it is 0, the domain is forever
     pub expires_at: u64,
+
+    // time in unix timestamp in utc.
+    // when the name account has been created.
+    pub created_at: u64,
+
+    // immutable owner domains
+    pub non_transferable: bool,
 }
 ```

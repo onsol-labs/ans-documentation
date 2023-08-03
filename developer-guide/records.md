@@ -1,6 +1,6 @@
 # Records
 
-The following records are currently available on ANS Protocol:
+The following records are currently available on AllDomains Protocol:
 
 | Name     | Value                |
 | -------- | -------------------- |

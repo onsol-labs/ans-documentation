@@ -2,17 +2,13 @@
 
 ### Register a new domain:
 
-1. Go to to [**abc.onsol.io**](https://abc.onsol.io) or [**thepoor.club**](https://thepoor.club) or [**bonk.onsol.io**](https://bonk.onsol.io)
-2. Search for the domain name you want. In this example I have used "_johncena_” and this domain appears to be unregistered\
+1. Go to [**alldomains.id**](https://alldomains.id/)
+2. Search for the domain name you want. In this example, I have used "johncena”. You can see (or not😅) that the domain name hasn’t been claimed for any of the 4 TLDs: .abc, .bonk, .poor and .moon
 
+<figure><img src="https://lh5.googleusercontent.com/FqJc5G-JSqgPEh6QjHi6XoqjE0HD-YgG2JCd9LAXd6YmpqUqHtIbGELHLLMcEFKWsNHtBeuyfGCt-u3HprffJE029SuZb3nNDl6mKafntwR92fgx2ScD8D9DS86ZZrpU5Fbie3xp3806WS7PC6xf0H0" alt=""><figcaption><p>Search for a Domain</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/home_page.jpeg" alt=""><figcaption><p>Claim Domain</p></figcaption></figure>
-
-3. Select the number of **years** for which you want to own the domain
-
-<figure><img src="../.gitbook/assets/year.png" alt=""><figcaption></figcaption></figure>
-
-4. Click **claim** and approve wallet transaction to buy the domain.
+3. &#x20;Since .abc and .moon domain names are renewable you will have to select the period for which you would like to claim The .poor and .bonk domains are permanent and can be instantly claimed.
+4. Select the TLD your domain name should be associated with and click **Buy**!
 
 
 

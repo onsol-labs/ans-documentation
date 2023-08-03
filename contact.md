@@ -1,6 +1,6 @@
 # Contact
 
-Twitter -> [https://twitter.com/ANSProtocol](https://twitter.com/ANSProtocol)
+Twitter -> [https://twitter.com/AllDomains\_](https://twitter.com/AllDomains\_)
 
 Github -> [https://github.com/onsol-labs](https://github.com/onsol-labs)
 

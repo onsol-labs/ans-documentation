@@ -1,3 +1,3 @@
 # Tokenomics
 
-In progress
+In progress. Soon in $ALL your wallets!

@@ -1,6 +1,6 @@
-# ANS Contributors
+# AllDomains Contributors
 
-**ANS is becoming a public good!**
+**AllDomains is becoming a public good!**
 
 Our vision is to be a key piece of **Solana** infrastructure – belonging to the entire community.
 

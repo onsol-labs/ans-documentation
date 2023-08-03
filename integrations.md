@@ -1,6 +1,6 @@
 # Integrations
 
-**ANS** can seamlessly integrate with any application within the Solana ecosystem.
+**AllDomains** can seamlessly integrate with any application within the Solana ecosystem.
 
 Expanding its utility, you can utilize our domain names across the following products.
 
