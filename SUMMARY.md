@@ -4,7 +4,7 @@
   * [What is a domain/TLD](overview/what-is-a-domain-tld.md)
   * [AllDomains Features](overview/alldomains-features.md)
   * [Benefits of using Web3 domains](overview/benefits-of-using-web3-domains.md)
-  * [AllDomains TLD’s](overview/alldomains-tlds.md)
+  * [AllDomains TLDs](overview/alldomains-tlds.md)
 * [Getting Started](getting-started/README.md)
   * [Purchasing a domain](getting-started/purchasing-a-domain.md)
   * [Selling a domain](getting-started/selling-a-domain.md)

@@ -1,6 +1,6 @@
-# AllDomains TLD’s
+# AllDomains TLDs
 
-There are currently 4 TLDs under the **AllDomains Protocol** umbrella:&#x20;
+There are currently 5 TLDs under the **AllDomains Protocol** umbrella:&#x20;
 
 * **.abc**
 * **.poor**
