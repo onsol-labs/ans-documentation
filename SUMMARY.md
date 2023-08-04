@@ -12,7 +12,7 @@
 * [Getting a TLD](getting-a-tld/README.md)
   * [Claim your TLD NFT](getting-a-tld/claim-your-tld-nft.md)
   * [Set up your own payment scheme](getting-a-tld/set-up-your-own-payment-scheme.md)
-  * [Preparing for secondary market](getting-a-tld/preparing-for-secondary-market.md)
+  * [Enable secondary market trading](getting-a-tld/enable-secondary-market-trading.md)
   * [Other Management Tools](getting-a-tld/other-management-tools.md)
   * [Trading TLD NFTs](getting-a-tld/trading-tld-nfts.md)
   * [Integrations](getting-a-tld/integrations.md)
