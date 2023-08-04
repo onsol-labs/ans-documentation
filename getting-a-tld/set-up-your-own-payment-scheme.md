@@ -1,8 +1,12 @@
-# Set up your own payment scheme
+# Activate your TLD
 
 If you have your TLD NFT and want to allow users to start domain name registrations you’ll first need to ACTIVATE your TLD.
 
 Head over to our [**Dashboard**](https://alldomains.id/dashboard) and click the TLDs tab. Choose the TLD you want to enable and click “ACTIVATE”
+
+{% hint style="danger" %}
+**Activating a TLD is irreversible, but you can change the prices at anytime**
+{% endhint %}
 
 Now it’s time to set up your domain registration prices. Fill in the inputs:
 

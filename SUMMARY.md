@@ -11,7 +11,7 @@
   * [Manage your domains](getting-started/manage-your-domains.md)
 * [Getting a TLD](getting-a-tld/README.md)
   * [Claim your TLD NFT](getting-a-tld/claim-your-tld-nft.md)
-  * [Activate your TLD](getting-a-tld/activate-your-tld.md)
+  * [Activate your TLD](getting-a-tld/set-up-your-own-payment-scheme.md)
   * [Enable secondary market trading](getting-a-tld/enable-secondary-market-trading.md)
   * [Other Management Tools](getting-a-tld/other-management-tools.md)
   * [Trading TLD NFTs](getting-a-tld/trading-tld-nfts.md)
