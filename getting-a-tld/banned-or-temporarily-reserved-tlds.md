@@ -4,4 +4,4 @@ Offensive or Controversial Names: Please be aware that certain words with offens
 
 To maintain respect and recognition for Solana's well-known brands, we have temporarily reserved certain TLDs such as .monke, .taiyo, .daa, etc.
 
-Additionally, web2 or web3 TLDs like .com, .org, .eth, .sui etc. will not be enabled because we plan on doing something special with them 😈
+Additionally, Web 2 or Web3 TLDs like .com, .org, .eth, .sui etc. will not be enabled because we plan on doing something special with them 😈
