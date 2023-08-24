@@ -31,4 +31,5 @@ Expanding its utility, you can utilize our domain names across the following pro
 | **Solstis**[ ](https://twitter.com/solstis\_app) | [https://twitter.com/solstis\_app](https://twitter.com/solstis\_app)                                                                                                            |
 | **NuggetPay**                                    | [https://twitter.com/nugget\_pay](https://twitter.com/nugget\_pay)                                                                                                              |
 | **Solana ChatGPT Plugin**                        | [https://chat.openai.com/](https://chat.openai.com/)                                                                                                                            |
+| **Elusiv**                                       | [https://twitter.com/elusivprivacy](https://twitter.com/elusivprivacy)                                                                                                          |
 
