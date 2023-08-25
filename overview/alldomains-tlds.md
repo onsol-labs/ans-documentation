@@ -3,6 +3,8 @@
 There are currently 5 TLDs under the **AllDomains Protocol** umbrella:&#x20;
 
 * **.abc**
+* **.superteam**
+* **.moon**
 * **.poor**
 * **.bonk**&#x20;
 * **.moon**
