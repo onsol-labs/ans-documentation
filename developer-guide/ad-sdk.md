@@ -108,7 +108,7 @@ async function getOwnerDomains(owner, tld){
     const parser = new TldParser(connection);
     
     // list of name record header publickeys owned by user in a tld
-    const ownedTldDomains = await parser.getAllUserDomainsFromTld(owner, tld);
+    const domainRecordPks = await parser.getAllUserDomainsFromTld(owner, tld);
     let domains = [];
     for (var recordPubkey of domainRecordPks) {
         //get the name record of a domain pk
