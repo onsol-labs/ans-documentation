@@ -32,4 +32,5 @@ Expanding its utility, you can utilize our domain names across the following pro
 | **NuggetPay**                                    | [https://twitter.com/nugget\_pay](https://twitter.com/nugget\_pay)                                                                                                              |
 | **Solana ChatGPT Plugin**                        | [https://chat.openai.com/](https://chat.openai.com/)                                                                                                                            |
 | **Elusiv**                                       | [https://twitter.com/elusivprivacy](https://twitter.com/elusivprivacy)                                                                                                          |
+| **FluxBeam**                                     | [https://twitter.com/FluxBeamDEX](https://twitter.com/FluxBeamDEX)                                                                                                              |
 
