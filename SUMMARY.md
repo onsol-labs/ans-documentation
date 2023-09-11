@@ -28,6 +28,6 @@
 * [Integrations](integrations.md)
 * [Links](links.md)
 * [Roadmap](roadmap.md)
-* [Tokenomics](tokenomics.md)
+* [$ALL Token](usdall-token.md)
 * [Governance](governance.md)
 * [Contact](contact.md)
