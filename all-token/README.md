@@ -1,4 +1,4 @@
-# $ALL Token
+# ALL Token
 
 ## Inception
 
@@ -34,7 +34,7 @@ _10% will be distributed to the AllDomains community, as follows:_&#x20;
 
 #### Market Making
 
-_5% will be offered as a Staking Options grant for market making to Mango Markets, with the same strike price as the options offered to the community_
+_5% will be offered as a_ [_Staking Options_](staking-options.md) _grant for market making to Mango Markets, with the same strike price as the options offered to the community_
 
 #### Rewards
 
