@@ -12,7 +12,7 @@ npm install @onsol/tldparser
 
 The following code shows how to get the Public Key owner of a domain name
 
-* works with **any AllDomomains TLD**
+* works with **any AllDomains TLD**
 
 ```typescript
 import { TldParser } from "@onsol/tldparser";
