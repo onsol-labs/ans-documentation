@@ -92,9 +92,9 @@ async function getOwnerUnwrappedDomains(owner: PublicKey){
     const parser = new TldParser(connection);
     
     // get only unwrapped user domains
-    let allUserDomains = await parser.getParsedAllUserDomainsUnwrapped(owner);
+    let unwrappedUserDomains = await parser.getParsedAllUserDomainsUnwrapped(owner);
 
-    return allUserDomains;
+    return unwrappedUserDomains;
 }
 
 // get only unwrapped owner domains
