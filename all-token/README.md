@@ -8,6 +8,8 @@ _Since day one, **AllDomains** was created with the intention to become a fully 
 
 ## $ALL Token
 
+Token Address: [BaoawH9p2J8yUK9r5YXQs3hQwmUJgscACjmTkh8rMwYL](https://explorer.solana.com/address/BaoawH9p2J8yUK9r5YXQs3hQwmUJgscACjmTkh8rMwYL)
+
 _The $ALL Token, the native currency of AllDomains, holds significant importance in shaping the future of the project. It empowers users by granting them influence over the decision-making process and direction of AllDomains. By actively engaging with the platform and contributing to its success, users are rewarded with $ALL tokens, reinforcing the growth and sustainability of the AllDomains ecosystem. This token plays a crucial role in establishing AllDomains as a leading entity in the Web3 industry, offering users a comprehensive platform to manage their digital identities._\
 \
 _$ALL serves various functions within the AllDomains ecosystem, including:_
