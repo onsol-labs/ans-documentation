@@ -184,3 +184,48 @@ const connection = new Connection(RPC_URL);
 //get all active AllDomains TLDs
 const allTlds = await getAllTld(connection);
 ```
+
+#### 6.  Get all domains registered in All TLDs
+
+```typescript
+import { TldParser, NameRecordHeader } from "@onsol/tldparser";
+import { Connection, PublicKey } from "@solana/web3.js";
+
+const RPC_URL = 'https://api.mainnet-beta.solana.com';
+
+// initialize a Solana Connection
+const connection = new Connection(RPC_URL);
+
+//this code doesn't check if a domain is expired or not
+async function getAllRegisteredDomains(owner){
+
+    //get all TLDs
+    const allTlds = await getAllTld(connection);
+
+    let domains = [];
+    for (let tld of allTlds) {
+
+        //get the parent name record for a TLD
+        const parentNameRecord = await NameRecordHeader.fromAccountAddress(connection, tld.parentAccount);
+            
+        //get all name accounts in a specific TLD
+        const allNameAccountsForTld = await findAllDomainsForTld(connection, tld.parentAccount);
+
+        //parse all name accounts in a specific TLD
+        for (let nameAccount of allNameAccountsForTld) {
+
+            //get domain as string without the tld
+            const domain = await parser.reverseLookupNameAccount(nameAccount, parentNameRecord?.owner);
+            domains.push(                {
+                nameAccount: nameAccount,
+                domain: `${domain}${tld.tld}`
+            });
+        }
+    }
+    return domains;
+}
+
+//get all domains registered on AllDomains
+const getAllRegisteredDomains = await getAllRegisteredDomains(connection);
+```
+
