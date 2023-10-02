@@ -47,6 +47,8 @@ resolveDomain("miester.poor");
 
 #### 3. Get all domains owned by a Public Key
 
+**a. get all domains**&#x20;
+
 ```typescript
 import { TldParser, NameRecordHeader } from "@onsol/tldparser";
 import { Connection, PublicKey } from "@solana/web3.js";
@@ -56,8 +58,35 @@ const RPC_URL = 'https://api.mainnet-beta.solana.com';
 // initialize a Solana Connection
 const connection = new Connection(RPC_URL);
 
-// get the all the domains of owned by a user public key
-async function getOwnerDomains(owner){
+// get all the domains owned by a user public key
+async function getOwnerDomains(owner: PublicKey){
+
+    // initialize a Tld Parser
+    const parser = new TldParser(connection);
+
+    // ge all user domains
+    let allUserDomains = await parser.getParsedAllUserDomains(owner);
+
+    return allUserDomains;
+}
+
+// get all owner domains
+getOwnerDomains(new PublicKey(""));
+```
+
+**b. get only unwrapped domains**
+
+```typescript
+import { TldParser, NameRecordHeader } from "@onsol/tldparser";
+import { Connection, PublicKey } from "@solana/web3.js";
+
+const RPC_URL = 'https://api.mainnet-beta.solana.com';
+
+// initialize a Solana Connection
+const connection = new Connection(RPC_URL);
+
+// get only the unwrapped domains owned by a user public key
+async function getOwnerUnwrappedDomains(owner: PublicKey){
 
     // initialize a Tld Parser
     const parser = new TldParser(connection);
@@ -78,22 +107,24 @@ async function getOwnerDomains(owner){
         //get the domain in string form
         const domain = await parser.reverseLookupNameAccount(recordPubkey, parentNameRecord?.owner);
         
-        domains.push(`${domain}${tld}`);
+        domains.push({
+            nameAccount: recordPubkey,
+            domain: `${domain}${tld}`
+        });
     }
       
     return domains;
 }
 
-//get the all owner domains
-getOwnerDomains(new PublicKey(""));
+// get only unwrapped owner domains
+getOwnerUnwrappedDomains(new PublicKey(""));
 ```
 
 
 
-#### 4. Get all domains owned by a Public Key in a specific TLD
+#### 4. Get all domains owned by a Public Key from a specific TLD
 
-```typescript
-import { TldParser, NameRecordHeader } from "@onsol/tldparser";
+<pre class="language-typescript"><code class="lang-typescript">import { TldParser, NameRecordHeader } from "@onsol/tldparser";
 import { Connection, PublicKey } from "@solana/web3.js";
 
 const RPC_URL = 'https://api.mainnet-beta.solana.com';
@@ -101,9 +132,9 @@ const RPC_URL = 'https://api.mainnet-beta.solana.com';
 // initialize a Solana Connection
 const connection = new Connection(RPC_URL);
 
-// get the all the domains of owned by a user public key
-async function getOwnerDomains(owner, tld){
-
+// get the all the domains of owned by a user public key in a TLD
+<strong>async function getOwnerDomainsFromTld(owner, tld){
+</strong>
     // initialize a Tld Parser
     const parser = new TldParser(connection);
     
@@ -120,21 +151,24 @@ async function getOwnerDomains(owner, tld){
         //get the domain in string form
         const domain = await parser.reverseLookupNameAccount(recordPubkey, parentNameRecord?.owner);
         
-        domains.push(`${domain}.${tld}`);
+        domains.push({
+            nameAccount: recordPubkey,
+            domain: `${domain}.${tld}`
+        });
     }
       
     return domains;
 }
 
 //get all owned domains in the ".abc" Tld, without the "."
-getOwnerDomains(new PublicKey(""), "abc");
+getOwnerDomainsFromTld(new PublicKey(""), "abc");
 
 //get all owned domains in the ".bonk" Tld
-getOwnerDomains(new PublicKey(""), "bonk");
+getOwnerDomainsFromTld(new PublicKey(""), "bonk");
 
 //get all owned domains in the ".poor" Tld
-getOwnerDomains(new PublicKey(""), "poor");
-```
+getOwnerDomainsFromTld(new PublicKey(""), "poor");
+</code></pre>
 
 ####
 
