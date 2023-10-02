@@ -64,7 +64,7 @@ async function getOwnerDomains(owner: PublicKey){
     // initialize a Tld Parser
     const parser = new TldParser(connection);
 
-    // ge all user domains
+    // get all user domains
     let allUserDomains = await parser.getParsedAllUserDomains(owner);
 
     return allUserDomains;
@@ -91,29 +91,10 @@ async function getOwnerUnwrappedDomains(owner: PublicKey){
     // initialize a Tld Parser
     const parser = new TldParser(connection);
     
-    // list of name record header public keys owned by a user
-    const domainRecordPks = await parser.getAllUserDomains(owner);
-    let domains = [];
-    for (var recordPubkey of domainRecordPks) {
-        //get the name record of a domain pk
-        const nameRecord = await NameRecordHeader.fromAccountAddress(connection, new PublicKey(recordPubkey));
-        
-        //get the parent name record of a domain pk
-        const parentNameRecord = await NameRecordHeader.fromAccountAddress(connection, nameRecord.parentName);
-        
-        //get the tld
-        const tld = await parser.getTldFromParentAccount(nameRecord.parentName);
-        
-        //get the domain in string form
-        const domain = await parser.reverseLookupNameAccount(recordPubkey, parentNameRecord?.owner);
-        
-        domains.push({
-            nameAccount: recordPubkey,
-            domain: `${domain}${tld}`
-        });
-    }
-      
-    return domains;
+    // get only unwrapped user domains
+    let allUserDomains = await parser.getParsedAllUserDomainsUnwrapped(owner);
+
+    return allUserDomains;
 }
 
 // get only unwrapped owner domains
