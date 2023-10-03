@@ -6,11 +6,12 @@ Expanding its utility, you can utilize our domain names across the following pro
 
 ### **Wallets:**
 
-| Name                       | About                                                                        |
-| -------------------------- | ---------------------------------------------------------------------------- |
-| **Phantom**                | [https://twitter.com/phantom](https://twitter.com/phantom)                   |
-| **Solflare**               | [https://twitter.com/solflare\_wallet](https://twitter.com/solflare\_wallet) |
-| **Backpack** (in progress) | [https://twitter.com/xNFT\_Backpack](https://twitter.com/xNFT\_Backpack)     |
+| Name                                            | About                                                                        |
+| ----------------------------------------------- | ---------------------------------------------------------------------------- |
+| **Phantom**                                     | [https://twitter.com/phantom](https://twitter.com/phantom)                   |
+| **Solflare**                                    | [https://twitter.com/solflare\_wallet](https://twitter.com/solflare\_wallet) |
+| **Backpack** (in progress)                      | [https://twitter.com/xNFT\_Backpack](https://twitter.com/xNFT\_Backpack)     |
+| **Helium Wallet** (not in appstore version yet) | [https://twitter.com/helium](https://twitter.com/helium)                     |
 
 ### **Marketplaces:**
 
@@ -33,4 +34,6 @@ Expanding its utility, you can utilize our domain names across the following pro
 | **Solana ChatGPT Plugin**                        | [https://chat.openai.com/](https://chat.openai.com/)                                                                                                                            |
 | **Elusiv**                                       | [https://twitter.com/elusivprivacy](https://twitter.com/elusivprivacy)                                                                                                          |
 | **FluxBeam**                                     | [https://twitter.com/FluxBeamDEX](https://twitter.com/FluxBeamDEX)                                                                                                              |
+| **Solfees**                                      | [https://twitter.com/ronnyhaase](https://twitter.com/ronnyhaase)                                                                                                                |
+| **Birdeye**                                      | [https://twitter.com/birdeye\_so](https://twitter.com/birdeye\_so)                                                                                                              |
 
