@@ -25,6 +25,7 @@
 * [AllDomains Contributors](alldomains-contributors/README.md)
   * [Current Contributors](alldomains-contributors/current-contributors.md)
   * [How to become a contributor](alldomains-contributors/how-to-become-a-contributor.md)
+* [AllDomains Pools](alldomains-pools.md)
 * [Integrations](integrations.md)
 * [Links](links.md)
 * [Roadmap](roadmap.md)
