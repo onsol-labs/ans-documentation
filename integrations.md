@@ -6,12 +6,12 @@ Expanding its utility, you can utilize our domain names across the following pro
 
 ### **Wallets:**
 
-| Name                                            | About                                                                        |
-| ----------------------------------------------- | ---------------------------------------------------------------------------- |
-| **Phantom**                                     | [https://twitter.com/phantom](https://twitter.com/phantom)                   |
-| **Solflare**                                    | [https://twitter.com/solflare\_wallet](https://twitter.com/solflare\_wallet) |
-| **Backpack** (in progress)                      | [https://twitter.com/xNFT\_Backpack](https://twitter.com/xNFT\_Backpack)     |
-| **Helium Wallet** (not in appstore version yet) | [https://twitter.com/helium](https://twitter.com/helium)                     |
+| Name                       | About                                                                        |
+| -------------------------- | ---------------------------------------------------------------------------- |
+| **Phantom**                | [https://twitter.com/phantom](https://twitter.com/phantom)                   |
+| **Solflare**               | [https://twitter.com/solflare\_wallet](https://twitter.com/solflare\_wallet) |
+| **Helium Wallet**          | [https://twitter.com/helium](https://twitter.com/helium)                     |
+| **Backpack** (in progress) | [https://twitter.com/xNFT\_Backpack](https://twitter.com/xNFT\_Backpack)     |
 
 ### **Marketplaces:**
 
