@@ -36,4 +36,5 @@ Expanding its utility, you can utilize our domain names across the following pro
 | **FluxBeam**                                     | [https://twitter.com/FluxBeamDEX](https://twitter.com/FluxBeamDEX)                                                                                                              |
 | **Solfees**                                      | [https://twitter.com/ronnyhaase](https://twitter.com/ronnyhaase)                                                                                                                |
 | **Birdeye**                                      | [https://twitter.com/birdeye\_so](https://twitter.com/birdeye\_so)                                                                                                              |
+| **SonarWatch**                                   | [https://sonar.watch/](https://sonar.watch/)                                                                                                                                    |
 
