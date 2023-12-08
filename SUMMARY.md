@@ -38,6 +38,7 @@
 * [Links](links.md)
 * [Roadmap](roadmap.md)
 * [ALL Token](all-token/README.md)
-  * [Staking Options](all-token/staking-options.md)
+  * [$ALL Loyalty Staking Options](all-token/usdall-loyalty-staking-options.md)
+  * [Staking Options ( Expired )](all-token/staking-options-expired.md)
 * [Governance](governance.md)
 * [Contact](contact.md)
