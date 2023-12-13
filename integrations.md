@@ -37,4 +37,5 @@ Expanding its utility, you can utilize our domain names across the following pro
 | **Solfees**                                      | [https://twitter.com/ronnyhaase](https://twitter.com/ronnyhaase)                                                                                                                |
 | **Birdeye**                                      | [https://twitter.com/birdeye\_so](https://twitter.com/birdeye\_so)                                                                                                              |
 | **SonarWatch**                                   | [https://sonar.watch/](https://sonar.watch/)                                                                                                                                    |
+| **CryptoSlam**                                   | [https://twitter.com/cryptoslamio](https://twitter.com/cryptoslamio)                                                                                                            |
 
