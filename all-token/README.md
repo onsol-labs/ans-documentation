@@ -61,7 +61,7 @@ _Reminder: This is a self-funded project and most of the revenues so far were us
 
 #### Future Funding
 
-_5% of the tokens will be locked and funding the AllDomains project and allow it to grab any opportunities that come our way, such as investing in new products and services that can help the business grow_
+_5% of the tokens will be locked and funding the AllDomains project and allow it to grab any opportunities that come our way, such as investing in new products and services that can help the project grow_
 
 #### Foundation
 
