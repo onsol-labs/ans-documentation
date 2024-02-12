@@ -22,6 +22,13 @@ Expanding its utility, you can utilize our domain names across the following pro
 | **Hadeswap**   | [https://twitter.com/hadeswap](https://twitter.com/hadeswap)           |
 | **Tensor**     | [https://twitter.com/tensor\_hq](https://twitter.com/tensor\_hq)       |
 
+### Exlporers:
+
+| Name                     | About                                                                     |
+| ------------------------ | ------------------------------------------------------------------------- |
+| **SolanaFM**             | [https://twitter.com/solanafm](https://twitter.com/solanafm)              |
+| **XRAY Solana Explorer** | [https://twitter.com/xray\_explorer](https://twitter.com/xray\_explorer)  |
+
 ### **Tools:**
 
 | Name                                             | About                                                                                                                                                                           |
@@ -29,7 +36,6 @@ Expanding its utility, you can utilize our domain names across the following pro
 | **Squads**                                       | <p><a href="https://twitter.com/SquadsProtocol">https://twitter.com/SquadsProtocol<br></a>Solana MultiSig management protocol for web3 native teams</p>                         |
 | **Dialect**                                      | <p><a href="https://twitter.com/saydialect">https://twitter.com/saydialect<br></a>Enabling a more engaging dapp experience with timely, targeted messages and notifications</p> |
 | **SolanaFM**                                     | [https://twitter.com/solanafm](https://twitter.com/solanafm)                                                                                                                    |
-| **XRAY Solana Explorer**                         | [https://twitter.com/xray\_explorer](https://twitter.com/xray\_explorer)                                                                                                        |
 | **Solstis**[ ](https://twitter.com/solstis\_app) | [https://twitter.com/solstis\_app](https://twitter.com/solstis\_app)                                                                                                            |
 | **NuggetPay**                                    | [https://twitter.com/nugget\_pay](https://twitter.com/nugget\_pay)                                                                                                              |
 | **Solana ChatGPT Plugin**                        | [https://chat.openai.com/](https://chat.openai.com/)                                                                                                                            |
