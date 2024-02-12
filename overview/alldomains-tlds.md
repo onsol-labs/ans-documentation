@@ -1,14 +1,5 @@
 # AllDomains TLDs
 
-There are currently 5 TLDs under the **AllDomains Protocol** umbrella:&#x20;
+There are currently >40 TLDs under the AllDomains Protocol umbrella and the list is still expanding
 
-* **.abc**
-* **.superteam**
-* **.moon**
-* **.poor**
-* **.bonk**&#x20;
-* **.moon**
-* **.eth** ( yup, the same one from Ethereum, brought to Solana through [**.bridge**](https://bridge.onsol.io) ) \
-
-
-Want **.gang**? We can do it! Care for **.clayno**? Stomp right this way -> [**Getting a TLD**](../getting-a-tld/)
+You can check the full list by going on our website:[ https://alldomains.id ](https://alldomains.id)
