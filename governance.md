@@ -1,4 +1,0 @@
-# Governance
-
-In progress
-
