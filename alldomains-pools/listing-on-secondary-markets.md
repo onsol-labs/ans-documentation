@@ -1,6 +1,8 @@
 # Listing on secondary markets
 
-AllDomains does not provide an automated listing on marketplaces. We recommend that each Pool Initiator list the TLD Collection on marketplaces like Magic Eden.\
+AllDomains does not provide an automated listing on marketplaces. We recommend each Collaborator list the TLD Collection on marketplaces like Magic Eden to allow them to add their proper links and social channels, and take ownership of their assets.\
+\
+We can verify the collection for you, but all links will also point to the AllDomains social channels instead of our collaborators (login is required, since the impossibility for us to verifiy with your social channels).\
 \
 Here is the guide to list: [https://help.magiceden.io/en/articles/6006558-how-to-list-your-nft-collection-on-magic-eden-a-guide-for-creators#h\_3c2481d9f9](https://help.magiceden.io/en/articles/6006558-how-to-list-your-nft-collection-on-magic-eden-a-guide-for-creators#h\_3c2481d9f9)&#x20;
 
