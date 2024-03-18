@@ -8,7 +8,7 @@ Our TLD Program, also known as TLD House, has the capacity to support an unlimit
 
 #### Get your TLD!
 
-All NFT collections, games, projects, users, and Web3 communities can now create their OWN unique Web3 domain names upon application. Please contact us https://alldomains.id/search-tld.
+All NFT collections, games, projects, users, and Web3 communities can now create their OWN unique Web3 domain names upon application. Please contact us at [https://alldomains.id/search-tld](https://alldomains.id/search-tld).
 
 #### Domain Wrapping
 

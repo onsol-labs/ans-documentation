@@ -1,10 +1,10 @@
 # Table of contents
 
-* [Overview](README.md)
-  * [What is a Web3 domain/TLD](overview/what-is-a-web3-domain-tld.md)
-  * [AllDomains Features](overview/alldomains-features.md)
-  * [Benefits of using Web3 domains](overview/benefits-of-using-web3-domains.md)
-  * [AllDomains TLDs](overview/alldomains-tlds.md)
+* [Overview (Docs in review)](README.md)
+  * [What is a Web3 domain/TLD](overview-docs-in-review/what-is-a-web3-domain-tld.md)
+  * [AllDomains Features](overview-docs-in-review/alldomains-features.md)
+  * [Benefits of using Web3 domains](overview-docs-in-review/benefits-of-using-web3-domains.md)
+  * [AllDomains TLDs](overview-docs-in-review/alldomains-tlds.md)
 * [Getting Started](getting-started/README.md)
   * [Register a domain name](getting-started/register-a-domain-name.md)
   * [Dynamic Pricing](getting-started/dynamic-pricing.md)
