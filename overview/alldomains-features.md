@@ -4,12 +4,12 @@
 
 We are revolutionizing the process of domain creation on Solana by introducing renewable domain names for the first time ever.
 
-Why renewable domain names?\
+_Why renewable domain names?_
+
 Having renewable domain names prevents people from squatting on a whole bag of domain names.
 
-For example, let’s say you have a short and common name like Jeff.
-
-Having a single non-renewable domain name prevents other people from registering their name if the first is taken. If anyone got there ahead of you, that domain name is theirs forever, unless they’re willing to part with it, which will most likely cost you quite a sum!\
+For example, let’s say you have a short name like Jeff.\
+Having a single non-renewable domain name prevents other people from registering their names if the first is one taken. If anyone got there ahead of you, that domain name is theirs forever unless they’re willing to part with it.\
 Having multiple TLDs with renewal fees ensures that there will always be at least one jeff.\[something] available for claiming.
 
 
