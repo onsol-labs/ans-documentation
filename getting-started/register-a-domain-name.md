@@ -7,16 +7,16 @@
 
 <figure><img src="../.gitbook/assets/Capture1.PNG" alt=""><figcaption><p>Search for a Domain Name </p></figcaption></figure>
 
-3. If you don't know exactly what you're looking for scroll up and down the TLD list and find your favorite one! \
+3. If you don't know exactly what you're looking for, scroll up and down the TLD list and find your favorite one! \
    Alternatively, if you know exactly what domain name you want, just type in the complete domain in the search bar (e.g. alldomains.maxi) to get that specific result
 
 {% hint style="info" %}
-You can use filters to select certain TLDs to compare prices, or check the expiration dates for domain names that have been previously purchased. \
+You can use filters to select certain TLDs to compare prices or check the expiration dates for domain names that have been previously purchased. \
 \
 Feel free to play around and discover your best choice!
 {% endhint %}
 
-4. Once you have decided on the domain name you want to purchase, select the SPL you want to use for your purchase, the renewal period, and click Buy Now.&#x20;
+4. Once you have decided on the domain name you want to purchase, select the SPL you want to use for your purchase and the renewal period, and click Buy Now.&#x20;
 
 {% hint style="info" %}
 Some domain names are only available through community-specific tokens (e.g. .monke domains require a specific token you can only acquire through the Banana Stand)
