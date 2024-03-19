@@ -1,5 +1,5 @@
 ---
-description: (Feature no longer available for new pools)
+description: (Product discontinued)
 ---
 
 # AllDomains Pools
