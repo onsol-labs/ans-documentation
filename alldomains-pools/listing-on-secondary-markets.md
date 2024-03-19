@@ -20,4 +20,4 @@ One more hint: If you generate our own Hash List, please specify that the collec
 
 <figure><img src="https://lh3.googleusercontent.com/yWDQJwUiQCVqW6NAgL1T1GH7UL-DZwhomG7EOWNfbdgNy9GdqcHITrapw8w69Ofk78c8oBfsKqacrrXMY1RHqeLCP7MDPjNB66Z3PajNa9WANRP1C36hzmt8dRZN2VEmUJXO6Kk-YFurtdxiZyvpLPc" alt="" width="375"><figcaption></figcaption></figure>
 
-Please open a Discord Ticket in case you have any issues and we will try and contact the marketplace support.
+Please open a [Discord](https://discord.gg/UP6gqQx7vy) Ticket in case you have any issues and we will try, and contact the marketplace support.

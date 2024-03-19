@@ -21,6 +21,6 @@ If you encounter any error while trying to perform a transaction there are a cou
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Error with an unregistered domain name</p></figcaption></figure>
 
-More use cases are available via our [integration](../integrations.md) partners. Just keep an eye on the expanding list of integrations.
+More use cases are available via our [integration](../developer-guide/integrations.md) partners. Just keep an eye on the expanding list of integrations.
 
 Some communities that launched TLDs with us have taken domain names to another level entirely. Some have enabled discord gating, while others allow you to stake your domain names or even offer registration rewards!

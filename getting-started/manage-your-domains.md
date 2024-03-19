@@ -16,7 +16,7 @@ You can easily renew in advance and extend your domains. Click Extend, select th
 
 ### **Set your Favorite Domain Name**
 
-If you own multiple AllDomains assets, but want a specific one to be displayed by our [Integration Partners](../integrations.md) (e.g. Birdeye) you will have to choose a Favorite Domain!
+If you own multiple AllDomains assets, but want a specific one to be displayed by our [Integration Partners](../developer-guide/integrations.md) (e.g. Birdeye) you will have to choose a Favorite Domain!
 
 You can set your favorite domain by clicking the "☆" icon associated to one of your domains and sign off the transcation.
 
