@@ -11,6 +11,7 @@
   * [Buy from a Marketplace:](getting-started/buy-from-a-marketplace.md)
   * [Selling a domain](getting-started/selling-a-domain.md)
   * [Manage your domains](getting-started/manage-your-domains.md)
+  * [Using your Domain](getting-started/using-your-domain.md)
   * [Expiration and Grace Period](getting-started/expiration-and-grace-period.md)
 * [Getting a TLD](getting-a-tld/README.md)
   * [Integrations](getting-a-tld/integrations.md)
