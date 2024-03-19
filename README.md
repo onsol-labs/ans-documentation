@@ -16,7 +16,7 @@ With AllDomains any user can choose not only a name they desire but also the com
 
 
 
-At the same time, AllDomains is the first protocol to **bridge the gap between Web2 and Web3** by enabling Web2 domain name registrations on Solana. To this end, we have launched pilot domain name registrations for the .ID Web2 TLD. These work for both their initially intended purposes and as Web3 domain names in parallel.
+At the same time, AllDomains is the first protocol to **bridge the gap between Web2 and Web3** by enabling Web2 domain name registrations on Solana. To this end, we have launched **pilot domain name** registrations for the **.ID Web2 TLD**. These work for both their initially intended purposes and as Web3 domain names in parallel.
 
 
 
