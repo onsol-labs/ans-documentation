@@ -8,5 +8,5 @@
 * can be used in guerrilla marketing tactics
 * crypto equivalent of a custom car plate
 * wrapped as NFTs can be sold on secondary markets
-* can be integrated with wallets, dApps, and other tools
+* can be [integrated](../integrations.md) with wallets, dApps, and other tools
 * fun and easy to use
