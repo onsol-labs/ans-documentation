@@ -11,3 +11,4 @@ Some communities may choose to go for a more formal TLD (.thug) while others for
 If you want to start a new TLD please contact us via the form here [https://alldomains.id/launch-tld](https://alldomains.id/launch-tld)
 
 \
+**Disclaimer:** Please be aware that certain words with offensive or controversial connotations will not be available on the AllDomains platform. We are committed to promoting a respectful and inclusive environment for all users.&#x20;

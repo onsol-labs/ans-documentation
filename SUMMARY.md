@@ -15,7 +15,6 @@
   * [Expiration and Grace Period](getting-started/expiration-and-grace-period.md)
 * [Getting a TLD](getting-a-tld/README.md)
   * [Integrations](getting-a-tld/integrations.md)
-  * [Banned or temporarily reserved TLDs](getting-a-tld/banned-or-temporarily-reserved-tlds.md)
 * [Developer Guide](developer-guide/README.md)
   * [Programs](developer-guide/programs.md)
   * [AD SDK](developer-guide/ad-sdk.md)
