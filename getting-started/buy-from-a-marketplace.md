@@ -2,7 +2,7 @@
 
 You can also purchase a domain on most of the popular NFT Marketplaces on Solana.
 
-Simply search  “??? Domain Names” ("Poor Domain Names" "Bonk Domain Names" etc.) on any of these marketplaces to start browsing NFT domains&#x20;
+Simply search  “??? Domain Names” ("Poor Domain Names", "Bonk Domain Names" etc.) on any of these marketplaces to start browsing NFT domains&#x20;
 
 e.g.
 
