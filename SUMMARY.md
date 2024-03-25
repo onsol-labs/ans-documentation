@@ -28,5 +28,6 @@
   * [Claiming rewards](alldomains-pools-v1.0/claiming-rewards.md)
   * [Reclaim Your Tokens](alldomains-pools-v1.0/reclaim-your-tokens.md)
 * [Links](links.md)
+* [Brand kit](brand-kit.md)
 * [Roadmap](roadmap.md)
 * [Contact](contact.md)
