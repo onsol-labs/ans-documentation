@@ -11,7 +11,7 @@
    Alternatively, if you know exactly what domain name you want, just type in the complete domain in the search bar (e.g. alldomains.maxi) to get that specific result
 
 {% hint style="info" %}
-You can use filters to select certain TLDs to compare prices or check the expiration dates for domain names that have been previously purchased. \
+You can use filters to select certain TLDs to compare prices or check the expiration dates for previously purchased domain names.\
 \
 Feel free to play around and discover your best choice!
 {% endhint %}
