@@ -1,15 +1,15 @@
 # Using your Domain
 
-After registering a new domain name with us, your domain will initially not be displayed anywhere! The domain however is already associated with your wallet address and can be readily used.\
-\
-If you want to check the domain ownership without wrapping your domain up, head to your profile dashboard!\
-\
-Among the many uses you can find for your domain name, the most popular by far is simply transferring funds or assets via your wallet!\
-\
+After registering a new domain name with us, your domain will initially not be displayed anywhere! The domain however is already associated with your wallet address and can be readily used.
+
+If you want to check the domain ownership without wrapping your domain up, head to your profile dashboard!
+
+Among the many uses you can find for your domain name, the most popular by far is simply transferring funds or assets via your wallet!
 
 
-**Perform a transaction with a domain name**\
-\
+
+**Perform a transaction with a domain name**
+
 To send SOL or any other token using a domain name simply add the domain name in the Recipient field, where you would usually add the wallet address. Hit Next, and you’re done!
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Transfer funds using a domain name</p></figcaption></figure>

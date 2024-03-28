@@ -4,7 +4,7 @@ To manage your domains, go to[ ](https://abc.onsol.io/)[alldomains.id](https://a
 
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>View Profile</p></figcaption></figure>
 
-Once you do so you will be greeted by the following interface:![](broken-reference)
+Once you do so you will be greeted by the following interface:
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Your Profile Dashboard</p></figcaption></figure>
 

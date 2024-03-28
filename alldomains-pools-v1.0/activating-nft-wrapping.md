@@ -1,7 +1,7 @@
 # Activating NFT wrapping
 
-NFT wrapping will be set up by the AllDomains Team. To do so the Pool Initiator will need to join our [Discord,](https://discord.gg/UP6gqQx7vy) open a ticket, and provide:\
-\
+NFT wrapping will be set up by the AllDomains Team. To do so the Pool Initiator will need to join our [Discord,](https://discord.gg/UP6gqQx7vy) open a ticket, and provide:
+
 A **700x700 .png** image for the NFT background\
 Be aware that the wrapper will always print the domain name in white with a lower left alignment (see below):
 

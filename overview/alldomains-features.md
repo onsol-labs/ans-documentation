@@ -26,11 +26,12 @@ All NFT collections, games, projects, users, and Web3 communities can now create
 
 **Domain Wrapping**
 
-Most of our domains are available for wrapping as **NFTs** and listed on secondary markets through our own NFT Wrapping contract - NameHouse - a Solana Program that enables any domain from any new TLD to be wrapped as an NFT and traded on any Solana NFT Marketplace.\
-\
+Most of our domains are available for wrapping as **NFTs** and listed on secondary markets through our own NFT Wrapping contract - NameHouse - a Solana Program that enables any domain from any new TLD to be wrapped as an NFT and traded on any Solana NFT Marketplace.
+
 The NFT wrapper is active for the hybrid Web2 and Web3 .ID TLD. This enables Real World Asset (RWA) trading on Solana.
 
 
 
-**TLD Yield**\
+**TLD Yield**
+
 TBA

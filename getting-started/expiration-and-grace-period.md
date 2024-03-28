@@ -10,8 +10,8 @@ If your domain expires, you can no longer receive tokens with it or use it in an
 Please check the expiration date of your domain name on your personal dashboard.
 {% endhint %}
 
-**After this code gets integrated, this is how the Grace Period will work:**\
-\
+**After this code gets integrated, this is how the Grace Period will work:**
+
 First 45 days after your domain expires you retain ownership of the asset, and it will still work with all our integrations\
 For 5 more days after that you retain ownership of the asset, but it will no longer be useable\
 After the grace period passes, the account closes and anyone can register the domain name
