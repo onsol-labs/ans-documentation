@@ -6,7 +6,7 @@
 * status symbol and social identity
 * can be leveraged as a personal or business brand
 * can be used in guerrilla marketing tactics
-* crypto equivalent of a custom car plate
+* crypto equivalent of a custom license plate
 * wrapped as NFTs can be sold on secondary markets
 * can be [integrated](../developer-guide/integrations.md) with wallets, dApps, and other tools
 * fun and easy to use
