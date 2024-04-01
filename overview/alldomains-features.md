@@ -20,7 +20,7 @@ Having renewable domain names prevents people from squatting on a whole bag of d
 
 Our TLD Program, also known as TLD House, can support an unlimited number of TLDs.
 
-All NFT collections, games, projects, users, and Web3 communities can now create their OWN unique Web3 domain names upon application. Please contact us at [https://alldomains.id/search-tld](https://alldomains.id/search-tld)
+All NFT collections, games, projects, users, and Web3 communities can now create their OWN unique Web3 domain names upon application. Please contact us at [https://alldomains.id/launch-tld](https://alldomains.id/launch-tld)
 
 
 
