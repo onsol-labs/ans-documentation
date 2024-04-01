@@ -1,12 +1,11 @@
 # Benefits of using Web3 domains
 
-* an easy-to-remember address for sending and receiving cryptocurrency, making transactions as easy as sending an email
-* the domain only belongs to the owner, which can not be censored
-* secure and open due to their decentralized and transparent nature
-* status symbol and social identity
-* can be leveraged as a personal or business brand
-* can be used in guerrilla marketing tactics
-* crypto equivalent of a custom license plate
-* wrapped as NFTs can be sold on secondary markets
-* can be [integrated](../developer-guide/integrations.md) with wallets, dApps, and other tools
-* fun and easy to use
+* An easy-to-remember address for sending and receiving cryptocurrency, making transactions as easy as sending an email
+* The domain only belongs to the owner, which can not be censored
+* Secure and open due to their decentralized and transparent nature
+* Status symbol and social identity
+* Can be leveraged as a personal or business brand
+* Crypto equivalent of a custom license plate
+* Wrapped as NFTs can be sold on secondary markets
+* Can be [integrated](../developer-guide/integrations.md) with wallets, dApps, and other tools
+* Fun and easy to use
