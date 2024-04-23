@@ -196,15 +196,14 @@ const RPC_URL = 'https://api.mainnet-beta.solana.com';
 // initialize a Solana Connection
 const connection = new Connection(RPC_URL);
 
-//this code doesn't check if a domain is expired or not
-async function getAllRegisteredDomains(owner){
+// this code doesn't check if a domain is expired or not
+async function getAllRegisteredDomains(){
 
     //get all TLDs
     const allTlds = await getAllTld(connection);
 
     let domains = [];
     for (let tld of allTlds) {
-
         //get the parent name record for a TLD
         const parentNameRecord = await NameRecordHeader.fromAccountAddress(connection, tld.parentAccount);
             
@@ -229,3 +228,45 @@ async function getAllRegisteredDomains(owner){
 const getAllRegisteredDomains = await getAllRegisteredDomains(connection);
 ```
 
+7. #### &#x20;Get User Main Domain&#x20;
+
+````
+```typescript
+import { MainDomain, findMainDomain } from "@onsol/tldparser";
+import { Connection, PublicKey } from "@solana/web3.js";
+
+
+// returns MainDomain struct if it is available. it will return undefined if it is not.
+// MainDomains are usually shown as mainDomain.domain + mainDomain.tld 
+// the mainDomain.nameAccount is proof that the user has set it.
+const fetchMainDomain = async (connection: Connection, pubkey: string | PublicKey): Promise<MainDomain | undefined> => {
+    if (typeof pubkey === "string") {
+        pubkey = new PublicKey(pubkey)
+    }
+    const [mainDomainPubkey] = findMainDomain(pubkey);
+    let mainDomain = undefined;
+    try {
+        mainDomain = await MainDomain.fromAccountAddress(
+            connection,
+            mainDomainPubkey,
+        );
+        return mainDomain
+    } catch (e) {
+        console.log("No main domain found")
+    }
+    return mainDomain
+};
+
+
+const CONNECTION = new Connection("");
+console.log(await fetchMainDomain(CONNECTION, "2EGGxj2qbNAJNgLCPKca8sxZYetyTjnoRspTPjzN2D67"))
+
+// MainDomain {
+//     nameAccount: PublicKey [PublicKey(9YzfCEHb62bQ47snUyjkxhC9Eb6y7CSodK3m8CKWstjV)] {
+//       _bn: <BN: 7f0fb1f72ae0af9c5e7f5e4190d02ed2a720e88fb5787425157b9a9ec3fc39ec>
+//     },
+//     tld: '.abc',
+//     domain: 'miester'
+//   }
+```
+````
