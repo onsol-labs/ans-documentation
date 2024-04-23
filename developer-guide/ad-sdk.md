@@ -2,6 +2,10 @@
 
 ### How to integrate AllDomains Protocol:
 
+libraries are opensource with MIT licenses:\
+Typescript: [https://github.com/onsol-labs/tld-parser](https://github.com/onsol-labs/tld-parser)\
+Rust: [https://github.com/onsol-labs/tld-parse](https://github.com/onsol-labs/tld-parser)[-rs](https://github.com/onsol-labs/tld-parser-rs)
+
 #### 1. Installation
 
 ```
