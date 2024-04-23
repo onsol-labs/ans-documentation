@@ -22,7 +22,7 @@ Expanding its utility, you can utilize our domain names across the following pro
 | **Hadeswap**   | [https://twitter.com/hadeswap](https://twitter.com/hadeswap)           |
 | **Tensor**     | [https://twitter.com/tensor\_hq](https://twitter.com/tensor\_hq)       |
 
-### Exlporers:
+### Explorers:
 
 | Name                     | About                                                                     |
 | ------------------------ | ------------------------------------------------------------------------- |
