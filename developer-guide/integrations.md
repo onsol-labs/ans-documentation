@@ -45,4 +45,5 @@ Expanding its utility, you can utilize our domain names across the following pro
 | **SonarWatch**                                   | [https://sonar.watch/](https://sonar.watch/)                                                                                                                                    |
 | **CryptoSlam**                                   | [https://twitter.com/cryptoslamio](https://twitter.com/cryptoslamio)                                                                                                            |
 | **Solworks AirdropChecker**                      | [https://solana-airdrop-checker.solworks.dev/](https://solana-airdrop-checker.solworks.dev/)                                                                                    |
+| **SolChat**                                      | [https://twitter.com/SolChatCoin](https://twitter.com/SolChatCoin)                                                                                                              |
 
