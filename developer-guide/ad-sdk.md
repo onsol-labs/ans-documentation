@@ -188,22 +188,22 @@ const allTlds = await getAllTld(connection);
 #### 6.  Get all domains registered in All TLDs
 
 ```typescript
-import { TldParser, NameRecordHeader } from "@onsol/tldparser";
-import { Connection, PublicKey } from "@solana/web3.js";
+import { NameRecordHeader, findAllDomainsForTld, getAllTld } from "@onsol/tldparser";
+import { Connection } from "@solana/web3.js";
 
 const RPC_URL = 'https://api.mainnet-beta.solana.com';
 
 // initialize a Solana Connection
 const connection = new Connection(RPC_URL);
 
-// this code doesn't check if a domain is expired or not
-async function getAllRegisteredDomains(){
-
+//this code doesn't check if a domain is expired or not
+async function getAllRegisteredDomains(connection: Connection){
     //get all TLDs
     const allTlds = await getAllTld(connection);
 
     let domains = [];
     for (let tld of allTlds) {
+
         //get the parent name record for a TLD
         const parentNameRecord = await NameRecordHeader.fromAccountAddress(connection, tld.parentAccount);
             
@@ -225,12 +225,11 @@ async function getAllRegisteredDomains(){
 }
 
 //get all domains registered on AllDomains
-const getAllRegisteredDomains = await getAllRegisteredDomains(connection);
+console.log(await getAllRegisteredDomains(connection))
 ```
 
 7. #### &#x20;Get User Main Domain&#x20;
 
-````
 ```typescript
 import { MainDomain, findMainDomain } from "@onsol/tldparser";
 import { Connection, PublicKey } from "@solana/web3.js";
@@ -269,4 +268,3 @@ console.log(await fetchMainDomain(CONNECTION, "2EGGxj2qbNAJNgLCPKca8sxZYetyTjnoR
 //     domain: 'miester'
 //   }
 ```
-````
