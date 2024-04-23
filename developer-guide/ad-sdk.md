@@ -185,10 +185,10 @@ const connection = new Connection(RPC_URL);
 const allTlds = await getAllTld(connection);
 ```
 
-#### 6.  Get all domains registered in All TLDs
+#### 6.  Get all domains registered in All TLDs&#x20;
 
 ```typescript
-import { NameRecordHeader, findAllDomainsForTld, getAllTld } from "@onsol/tldparser";
+import { NameRecordHeader, TldParser, findAllDomainsForTld, getAllTld } from "@onsol/tldparser";
 import { Connection } from "@solana/web3.js";
 
 const RPC_URL = 'https://api.mainnet-beta.solana.com';
@@ -196,11 +196,13 @@ const RPC_URL = 'https://api.mainnet-beta.solana.com';
 // initialize a Solana Connection
 const connection = new Connection(RPC_URL);
 
-//this code doesn't check if a domain is expired or not
+// slow
+// please use no. 8 for a batch/faster implementation 
+// this code doesn't check if a domain is expired or not
 async function getAllRegisteredDomains(connection: Connection){
     //get all TLDs
     const allTlds = await getAllTld(connection);
-
+    const parser = new TldParser(connection);
     let domains = [];
     for (let tld of allTlds) {
 
@@ -210,11 +212,13 @@ async function getAllRegisteredDomains(connection: Connection){
         //get all name accounts in a specific TLD
         const allNameAccountsForTld = await findAllDomainsForTld(connection, tld.parentAccount);
 
+        if (!parentNameRecord || !parentNameRecord.owner) return;
+        
         //parse all name accounts in a specific TLD
         for (let nameAccount of allNameAccountsForTld) {
 
             //get domain as string without the tld
-            const domain = await parser.reverseLookupNameAccount(nameAccount, parentNameRecord?.owner);
+            const domain = await parser.reverseLookupNameAccount(nameAccount, parentNameRecord.owner);
             domains.push(                {
                 nameAccount: nameAccount,
                 domain: `${domain}${tld.tld}`
@@ -224,8 +228,9 @@ async function getAllRegisteredDomains(connection: Connection){
     return domains;
 }
 
-//get all domains registered on AllDomains
+// get all domains registered on AllDomains
 console.log(await getAllRegisteredDomains(connection))
+
 ```
 
 7. #### &#x20;Get User Main Domain&#x20;
@@ -364,14 +369,14 @@ async function getAllRegisteredDomains(
     onlyDomains: boolean = false,
 ) {
     const parser = new TldParser(connection);
-    //get all TLDs
+    // get all TLDs
     const allTlds = await getAllTld(connection);
 
     const domains = [];
     for (const tld of allTlds) {
         if (tldExpected) {
             if (tld.tld != tldExpected) continue;
-        } //get the parent name record for a TLD
+        } // get the parent name record for a TLD
         const parentNameRecord = await NameRecordHeader.fromAccountAddress(
             connection,
             tld.parentAccount,
