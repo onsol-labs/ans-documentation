@@ -8,9 +8,9 @@ To enable Notifications for your domain name, go to our website, [https://alldom
 
 After doing so, click on the _**Notifications Bell**_ and then on the _**Set up Notifications**_ button
 
-<figure><img src="../.gitbook/assets/2Screenshot 2024-04-30 151734.png" alt=""><figcaption><p>The Notification Settings</p></figcaption></figure>
 
 
+<figure><img src="../.gitbook/assets/3Screenshot 2024-04-30 160727.png" alt=""><figcaption><p>Setting up Notifications</p></figcaption></figure>
 
 There are three platforms you can choose from:
 
