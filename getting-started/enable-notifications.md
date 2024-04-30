@@ -27,7 +27,7 @@ If you want to be 100% sure you never miss anything, you can opt for all three; 
 \
 You can also choose what exactly you want to be notified about:
 
-_**1. Domain name expiry**_ will notify you each time your domain is close to the expiration date:
+_**1. Domain name expiry**_ will notify you each time any of your domain names are getting close to the expiration date:
 
 * 30 days before the domain name enters the Grace Period
 * Domain name enters the 45-day Grace Period
