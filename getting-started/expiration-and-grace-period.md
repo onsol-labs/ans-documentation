@@ -20,4 +20,4 @@ We are looking forward to providing a new **“Gift a renewal”** mechanic for 
 
 Domains in the Grace Period will still show up on Secondary Markets, but after this period passes, they will be dropped from the verified collection and will no longer show up on marketplaces. This ensures **you do not risk buying an expired domain name** without the possibility of renewal.\
 \
-\
+If you want to ensure you never lose a domain name to expiration [enabling notifications](enable-notifications.md) will keep your domains safe!\
