@@ -394,7 +394,9 @@ async function getAllRegisteredDomains(
             tld.parentAccount,
         );
         await setTimeout(50);
-        const [nameHouseAccount] = findNameHouse(tld.parentAccount);
+
+        const [tldHouse] = findTldHouse(tld.tld as string);
+        const [nameHouseAccount] = findNameHouse(tldHouse);
 
         const nameAccountPubkeys = allNameAccountsForTld.map((a) => a.pubkey);
 
