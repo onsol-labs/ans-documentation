@@ -372,7 +372,6 @@ async function getAllRegisteredDomains(
     tldExpected?: string,
     onlyDomains: boolean = false,
 ) {
-    const parser = new TldParser(connection);
     // get all TLDs
     const allTlds = await getAllTld(connection);
 
@@ -380,7 +379,8 @@ async function getAllRegisteredDomains(
     for (const tld of allTlds) {
         if (tldExpected) {
             if (tld.tld != tldExpected) continue;
-        } // get the parent name record for a TLD
+        } 
+        // get the parent name record for a TLD
         const parentNameRecord = await NameRecordHeader.fromAccountAddress(
             connection,
             tld.parentAccount,
@@ -388,7 +388,7 @@ async function getAllRegisteredDomains(
         if (!parentNameRecord) continue;
         if (!parentNameRecord.owner) continue;
 
-        //get all name accounts in a specific TLD
+        // get all name accounts in a specific TLD
         const allNameAccountsForTld = await findAllDomainsForTld(
             connection,
             tld.parentAccount,
