@@ -465,3 +465,63 @@ async function main() {
 // get all domains registered on AllDomains
 main();
 ```
+
+#### 9. Batch get Main Domains
+
+```typescript
+import {
+  MainDomain,
+  findMainDomain,
+} from "@onsol/tldparser";
+import { Connection, PublicKey } from "@solana/web3.js";
+import pLimit from "p-limit";
+
+// const connection = new Connection("");
+
+export const getMultipleMainDomains = async (
+  connection: Connection,
+  pubkeys: PublicKey[],
+): Promise<{ pubkey: string; mainDomain: string | undefined }[]> => {
+  const mainDomainKeys = pubkeys.map((pubkey) => findMainDomain(pubkey)[0]);
+  const mainDomainAccounts =
+    await connection.getMultipleAccountsInfo(mainDomainKeys);
+
+  return pubkeys.map((pubkey, index) => {
+    const mainDomainAccount = mainDomainAccounts[index];
+    if (!!mainDomainAccount?.data) {
+      const mainDomainData = MainDomain.fromAccountInfo(mainDomainAccount)[0];
+      return {
+        pubkey: pubkey.toString(),
+        mainDomain: mainDomainData.domain + mainDomainData.tld,
+      };
+    }
+    return { pubkey: pubkey.toString(), mainDomain: undefined };
+  });
+};
+
+// retrives users main domain in batches of 100 with pLimit of 20 it calls the rpc 20 times per second
+// thus, 2000 accounts data can be fetched per second.
+// pLimit could be increased depending on your rpc limits.
+async function getMainDomainsSample(connection: Connection, data: any[]) {
+  const mainDomains: { pubkey: string; mainDomain: string | undefined }[] = [];
+  const batches = [];
+  for (let i = 0; i < data.length; i += 100) {
+    batches.push(data.slice(i, i + 100));
+  }
+  const limit = pLimit(20);
+
+  await Promise.all(
+    batches.map(async (batch) => {
+      await limit(async () => {
+        const publicKeys = batch.map((data) =>
+            data.userPubkey ? new PublicKey(data.userPubkey) : PublicKey.default,
+        );
+        mainDomains.push(
+          ...(await getMultipleMainDomains(connection, publicKeys)),
+        );
+      });
+    }),
+  );
+  return mainDomains
+}
+```
