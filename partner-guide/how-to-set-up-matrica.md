@@ -76,7 +76,7 @@ Now, you can gate specific channels to specific user roles and even layer up you
 Setting up Telegram is easier: Just invite the Telegram Bot to your Group and create the rules.
 
 {% hint style="danger" %}
-**If you want your Telegram Group to stay Public DO NOT USE THE MATRICA BOT!**
+**If you want your Telegram Group to stay Public do not use the Matrica Bot!**
 {% endhint %}
 
 The Telegram Bot can only gate **the entire group** and **can not be used to gate** just certain parts of it **(Topics)**. This essentially transforms your Public Group into a Private Group (gated by domain name ownership)
