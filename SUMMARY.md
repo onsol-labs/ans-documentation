@@ -14,6 +14,7 @@
   * [Using your Domain](getting-started/using-your-domain.md)
   * [Expiration and Grace Period](getting-started/expiration-and-grace-period.md)
   * [Enable Notifications](getting-started/enable-notifications.md)
+  * [Verify on Matrica](getting-started/verify-on-matrica.md)
 * [Getting a TLD](getting-a-tld/README.md)
   * [Disclaimer](getting-a-tld/disclaimer.md)
 * [Developer Guide](developer-guide/README.md)
