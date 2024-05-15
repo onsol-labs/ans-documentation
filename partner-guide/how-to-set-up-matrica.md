@@ -85,4 +85,4 @@ The Telegram Bot can only gate **the entire group** and **can not be used to gat
 
 For a more in-depth look at setting up Matrica verification (NFTs, Tokens, etc. included) visit their Set Up Guide here [https://docs.matrica.io/guides/community-guide](https://docs.matrica.io/guides/community-guide)
 
-Also, if your users are new to Matrica feel free to share this “How to Verify” guide with them: [https://docs.google.com/document/d/1IhorjtbSZLZLJosIae7yBwVwk7aAr9332k\_YB0XS7ps/edit](https://docs.google.com/document/d/1IhorjtbSZLZLJosIae7yBwVwk7aAr9332k\_YB0XS7ps/edit)
+Also, if your users are new to Matrica feel free to share this “How to Verify” guide with them: [verify-on-matrica.md](../getting-started/verify-on-matrica.md "mention")
