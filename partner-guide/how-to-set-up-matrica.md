@@ -1,6 +1,6 @@
 # How to set up Matrica
 
-## **Getting Started and Pricing Plans**
+## **Getting Started and Matrica Plans**
 
 {% hint style="danger" %}
 Be sure the person that is in charge of this process has role creation privileges in Discord and Bot Invite privileges in Discord/Telegram
