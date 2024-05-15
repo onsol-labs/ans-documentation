@@ -1,5 +1,9 @@
 # How to set up Matrica
 
+You can now reward your most faithful community members by enabling domain name-based Matrica role verification!&#x20;
+
+These roles can be used in various ways, either purely as vanity roles or by gating access to specific channels, perks (like limiting access to giveaway channels), and holder bonuses inside your Discord and/or Telegram.
+
 ## **Getting Started and Matrica Plans**
 
 {% hint style="danger" %}
