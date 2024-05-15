@@ -4,7 +4,7 @@ To manage your domains, go to[ ](https://abc.onsol.io/)[alldomains.id](https://a
 
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>View Profile</p></figcaption></figure>
 
-Once you do so you will be greeted by the following interface:
+Once you do so, you will be greeted by the following interface:
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Your Profile Dashboard</p></figcaption></figure>
 
@@ -14,16 +14,16 @@ You can easily renew in advance and extend your domains. Click Extend, select th
 
 <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Renew your domain name</p></figcaption></figure>
 
-### **Set your Favorite Domain Name**
+### **Set your Main Domain Name**
 
-If you own multiple AllDomains assets, but want a specific one to be displayed by our [Integration Partners](../developer-guide/integrations.md) (e.g. Birdeye) you will have to choose a Favorite Domain!
+If you own multiple AllDomains assets but want a specific one displayed by our Integration Partners (e.g., Birdeye), you must choose a Main Domain!
 
-You can set your favorite domain by clicking the "☆" icon associated to one of your domains and sign off the transcation.
+You can set your favorite domain by clicking the "☆" icon associated with one of your domains and signing off the transaction.
 
 {% hint style="info" %}
 If your wallet is already associated with a .sol domain name, our integration partners will display that one first, as there is no protocol consensus yet.
 
-If you want your AllDomains asset to take precedence, you will have to move the .sol domain to another wallet.
+If you want your AllDomains asset to take precedence, move the .sol domain to another wallet.
 {% endhint %}
 
 ### **Domain Records**
