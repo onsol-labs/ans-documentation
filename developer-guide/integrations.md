@@ -46,4 +46,5 @@ Expanding its utility, you can utilize our domain names across the following pro
 | **Solworks AirdropChecker**                      | [https://solana-airdrop-checker.solworks.dev/](https://solana-airdrop-checker.solworks.dev/)                                                                                    |
 | **SolChat**                                      | [https://twitter.com/SolChatCoin](https://twitter.com/SolChatCoin)                                                                                                              |
 | **Matrica**                                      | [https://twitter.com/MatricaLabs](https://twitter.com/MatricaLabs)                                                                                                              |
+| **SolMail**                                      | [https://x.com/SolMailOfficial](https://x.com/SolMailOfficial)                                                                                                                  |
 
