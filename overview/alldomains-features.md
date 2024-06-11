@@ -30,7 +30,18 @@ Most of our domains are available for wrapping as **NFTs** and listed on seconda
 
 The NFT wrapper is active for the hybrid Web2 and Web3 .ID TLD. This enables Real World Asset (RWA) trading on Solana.
 
+**Dynamic Pricing and Multiple Claim Choices**\
+\
+Most of our domain names can be claimed in a multitude of SPLs, and we are always looking to add more to our list!
 
+Our domain names can also be customized to be claimed in various ways:&#x20;
+
+* Claim via NFT
+* Claim via SFT
+* Claim via QR Code for IRL events
+* Claim using multiple SPLs
+* Claim using Token Extensions
+* Claim using your own $TOKEN
 
 **TLD Yield**
 
