@@ -12,6 +12,7 @@ We can offer you a wide variety of custom claim methods for your TLDs:&#x20;
 
 * Claim via NFT
 * Claim via SFT
+* Claim via QR Code for IRL events
 * Claim in multiple SPLs
 * Claim in Token Extensions
 * Claim using your own $TOKEN
