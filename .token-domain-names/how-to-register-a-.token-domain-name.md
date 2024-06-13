@@ -1,14 +1,12 @@
 # How to register a .token domain name
 
-Head over to LINK
+Head over to [https://rugcheck.xyz/verify/token](https://rugcheck.xyz/verify/token)
 
+{% hint style="info" %}
+Only tokens  that pass the automated analytics checks will be allowed to apply
+{% endhint %}
 
-
-Only tokens  that pass the automated analytics checks will be allowed to apply:
-
-
-
-Requirements to claim:
+**Requirements to claim:**
 
 * Symbol must not already exist on the verified list
 * &#x20;Must not be a duplicate
