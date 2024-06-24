@@ -13,11 +13,11 @@ Through interaction with alldomains.id services, users can earn “AllDomains Ex
 **We reserve the right to:**
 
 * Remove points/exclude players for fraud
-* Change the points value for the available challenges at any time during the duration of the campaign. Changes will be made visible on the website
+* Change the points value for the available challenges at any time during the campaign's duration. Changes will be made visible on the website
 
 **Please note:**
 
-* Points are assigned to the domain name not the wallet, any domain name transfer will also result in a transfer of points.
+* Some points are assigned to the domain name, not the wallet (Register a Domain Name task), while others are assigned to the paying wallet (Renew a Domain Name task)
 * Challenges should remain completed for the whole duration of the campaign. If at any point an action needed to complete a challenge will be reverted by the user, the points awarded can be removed from the profile&#x20;
   * Ex. activate notifications, points are awarded and after that, the notifications are disabled
 
