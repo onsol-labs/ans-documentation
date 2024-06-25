@@ -8,8 +8,8 @@ Expanding its utility, you can utilize our domain names across the following pro
 
 | Name                       | About                                                                        |
 | -------------------------- | ---------------------------------------------------------------------------- |
-| **Phantom**                | [https://twitter.com/phantom](https://twitter.com/phantom)                   |
 | **Solflare**               | [https://twitter.com/solflare\_wallet](https://twitter.com/solflare\_wallet) |
+| **Phantom**                | [https://twitter.com/phantom](https://twitter.com/phantom)                   |
 | **Helium Wallet**          | [https://twitter.com/helium](https://twitter.com/helium)                     |
 | **Backpack** (in progress) | [https://twitter.com/Backpack](https://twitter.com/Backpack)                 |
 
@@ -24,10 +24,10 @@ Expanding its utility, you can utilize our domain names across the following pro
 
 ### Explorers:
 
-| Name                     | About                                                                     |
-| ------------------------ | ------------------------------------------------------------------------- |
-| **SolanaFM**             | [https://twitter.com/solanafm](https://twitter.com/solanafm)              |
-| **XRAY Solana Explorer** | [https://twitter.com/xray\_explorer](https://twitter.com/xray\_explorer)  |
+| Name           | About                                                        |
+| -------------- | ------------------------------------------------------------ |
+| **SolanaFM**   | [https://twitter.com/solanafm](https://twitter.com/solanafm) |
+| **SonarWatch** | [https://sonar.watch/](https://sonar.watch/)                 |
 
 ### **Tools:**
 
@@ -36,12 +36,10 @@ Expanding its utility, you can utilize our domain names across the following pro
 | **Squads**                                       | <p><a href="https://twitter.com/SquadsProtocol">https://twitter.com/SquadsProtocol<br></a>Solana MultiSig management protocol for web3 native teams</p>                         |
 | **Dialect**                                      | <p><a href="https://twitter.com/saydialect">https://twitter.com/saydialect<br></a>Enabling a more engaging dapp experience with timely, targeted messages and notifications</p> |
 | **Solstis**[ ](https://twitter.com/solstis\_app) | [https://twitter.com/solstis\_app](https://twitter.com/solstis\_app)                                                                                                            |
-| **NuggetPay**                                    | [https://twitter.com/nugget\_pay](https://twitter.com/nugget\_pay)                                                                                                              |
 | **Solana ChatGPT Plugin**                        | [https://chat.openai.com/](https://chat.openai.com/)                                                                                                                            |
 | **FluxBeam**                                     | [https://twitter.com/FluxBeamDEX](https://twitter.com/FluxBeamDEX)                                                                                                              |
 | **Solfees**                                      | [https://twitter.com/ronnyhaase](https://twitter.com/ronnyhaase)                                                                                                                |
 | **Birdeye**                                      | [https://twitter.com/birdeye\_so](https://twitter.com/birdeye\_so)                                                                                                              |
-| **SonarWatch**                                   | [https://sonar.watch/](https://sonar.watch/)                                                                                                                                    |
 | **CryptoSlam**                                   | [https://twitter.com/cryptoslamio](https://twitter.com/cryptoslamio)                                                                                                            |
 | **Solworks AirdropChecker**                      | [https://solana-airdrop-checker.solworks.dev/](https://solana-airdrop-checker.solworks.dev/)                                                                                    |
 | **SolChat**                                      | [https://twitter.com/SolChatCoin](https://twitter.com/SolChatCoin)                                                                                                              |
