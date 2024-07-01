@@ -1,4 +1,4 @@
-# Page
+# Referral Program
 
 The AllDomains Experience task Referral Program allows you to create your own referral link. You can then share it with your friends and leverage the power of your network to increase your points total significantly.
 
