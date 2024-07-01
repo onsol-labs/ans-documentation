@@ -24,6 +24,7 @@
   * [Structure/Architecture](developer-guide/structure-architecture.md)
   * [Integrations](developer-guide/integrations.md)
 * [The AllDomains Experience](the-alldomains-experience/README.md)
+  * [Page](the-alldomains-experience/page.md)
   * [Terms and conditions](the-alldomains-experience/terms-and-conditions.md)
 * [Partner Guide](partner-guide/README.md)
   * [How to set up Matrica](partner-guide/how-to-set-up-matrica.md)
