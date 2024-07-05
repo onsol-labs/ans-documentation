@@ -8,7 +8,7 @@ Start Date: **June 24th 2024**
 
 **How to join:**&#x20;
 
-You can easily join the AllDomains Experience by visiting [alldomains.id](https://alldomains.id), connecting your wallet and going to your profile page. There, you will be able to access your dashboard.&#x20;
+You can easily join the AllDomains Experience by visiting [alldomains.id](https://alldomains.id), connecting your wallet, and going to your profile page. There, you can access your dashboard.&#x20;
 
 For your profile to become active, you must register at least one of our domain names.
 
