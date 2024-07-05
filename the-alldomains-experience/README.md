@@ -6,7 +6,15 @@ Start Date: **June 24th 2024**
 
 **TL;DR:** The higher your points, the better your rewards
 
-You will earn points through completing various AllDomains related tasks on our platform and partner platforms. Our goal is to empower users and revolutionize the Domain playbook. We believe rewarding real platform users who understand the full capacity of Domains will accelerate our growth.
+**How to join:**&#x20;
+
+You can easily join the AllDomains Experience by visiting [alldomains.id](https://alldomains.id), connecting your wallet and going to your profile page. There, you will be able to access your dashboard.&#x20;
+
+For your profile to become active, you must register at least one of our domain names.
+
+**How it works:**
+
+You will earn points by completing various AllDomains-related tasks on our platform and partner platforms. Our goal is to empower users and revolutionize the Domain playbook. We believe rewarding real platform users who understand the full capacity of Domains will accelerate our growth.
 
 As you complete tasks you will find yourself surprised by all the different applications of our Domains, the features you can enable for them, and the features they can enable for communities.
 
@@ -15,7 +23,7 @@ Some activities that may get you points during Season 1 include:
 * **Owning an unexpired Domain**
 * **Renewing a Domain**
 * **Setting up your Main Domain**
-* &#x20;**Joining Discord**
+* **Joining Discord**
 * **Opting into Dialect notifications for Domains**
 
 Season 1 will unquestionably have more tasks that could earn you points.&#x20;
