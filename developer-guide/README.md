@@ -6,4 +6,5 @@ This following sections provide informations about:
 * [**AD SDK**](ad-sdk/)
 * [Records](records.md)
 * [Structure/Architecture](structure-architecture.md)
+* [Integrations](integrations.md)
 

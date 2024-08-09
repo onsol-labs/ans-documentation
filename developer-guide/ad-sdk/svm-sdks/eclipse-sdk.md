@@ -22,7 +22,7 @@ The following code shows how to get the Public Key owner of a domain name
 import { TldParser } from "@onsol/tldparser";
 import { Connection } from "@solana/web3.js";
 
-const RPC_URL = 'https://api.mainnet-beta.solana.com';
+const RPC_URL = 'https://mainnetbeta-rpc.eclipse.xyz';
 
 // initialize a Solana Connection
 const connection = new Connection(RPC_URL);
@@ -36,14 +36,8 @@ async function resolveDomain(domain){
     return await parser.getOwnerFromDomainTld(domain);
 }
 
-//get the owner pubkey of "miester.abc";
-resolveDomain("miester.abc");
-
-//get the owner pubkey of "miester.bonk"
-resolveDomain("miester.bonk");
-
-//get the owner pubkey of "miester.poor"
-resolveDomain("miester.poor");
+//get the owner pubkey of "miester.turbo";
+resolveDomain("miester.turbo");
 
 ```
 
@@ -57,7 +51,7 @@ resolveDomain("miester.poor");
 import { TldParser, NameRecordHeader } from "@onsol/tldparser";
 import { Connection, PublicKey } from "@solana/web3.js";
 
-const RPC_URL = 'https://api.mainnet-beta.solana.com';
+const RPC_URL = 'https://mainnetbeta-rpc.eclipse.xyz';
 
 // initialize a Solana Connection
 const connection = new Connection(RPC_URL);
@@ -84,7 +78,7 @@ getOwnedDomains(new PublicKey(""));
 import { TldParser, NameRecordHeader } from "@onsol/tldparser";
 import { Connection, PublicKey } from "@solana/web3.js";
 
-const RPC_URL = 'https://api.mainnet-beta.solana.com';
+const RPC_URL = 'https://mainnetbeta-rpc.eclipse.xyz';
 
 // initialize a Solana Connection
 const connection = new Connection(RPC_URL);
@@ -114,7 +108,7 @@ getOwnedUnwrappedDomains(new PublicKey(""));
 <pre class="language-typescript"><code class="lang-typescript">import { TldParser, NameRecordHeader } from "@onsol/tldparser";
 import { Connection, PublicKey } from "@solana/web3.js";
 
-const RPC_URL = 'https://api.mainnet-beta.solana.com';
+const RPC_URL = 'https://mainnetbeta-rpc.eclipse.xyz';
 
 // initialize a Solana Connection
 const connection = new Connection(RPC_URL);
@@ -131,14 +125,8 @@ const connection = new Connection(RPC_URL);
     return ownedDomainsFromTld;
 }
 
-//get all owned domains in the ".abc" Tld, without the "."
-getOwnedDomainsFromTld(new PublicKey(""), "abc");
-
-//get all owned domains in the ".bonk" Tld, without the "."
-getOwnedDomainsFromTld(new PublicKey(""), "bonk");
-
-//get all owned domains in the ".poor" Tld, without the "."
-getOwnedDomainsFromTld(new PublicKey(""), "poor");
+// get all owned domains in the ".turbo" Tld, without the "."
+getOwnedDomainsFromTld(new PublicKey(""), "turbo");
 </code></pre>
 
 **b. Get all only unwrapped owned domains from a specific TLD**
@@ -147,7 +135,7 @@ getOwnedDomainsFromTld(new PublicKey(""), "poor");
 import { TldParser, NameRecordHeader } from "@onsol/tldparser";
 import { Connection, PublicKey } from "@solana/web3.js";
 
-const RPC_URL = 'https://api.mainnet-beta.solana.com';
+const RPC_URL = 'https://mainnetbeta-rpc.eclipse.xyz';
 
 // initialize a Solana Connection
 const connection = new Connection(RPC_URL);
@@ -164,14 +152,8 @@ async function getOwnedUnwrappedDomainsFromTld(owner, tld){
     return ownedUnwrappedDomainsFromTld;
 }
 
-//get owned unwraped domains in the ".abc" Tld, without the "."
-getOwnedUnwrappedDomainsFromTld(new PublicKey(""), "abc");
-
-//get owned unwraped domains in the ".bonk" Tld
-getOwnedUnwrappedDomainsFromTld(new PublicKey(""), "bonk");
-
-//get owned unwraped domains in the ".poor" Tld
-getOwnedUnwrappedDomainsFromTld(new PublicKey(""), "poor");
+// get owned unwraped domains in the ".turbo" Tld, without the "."
+getOwnedUnwrappedDomainsFromTld(new PublicKey(""), "turbo");
 ```
 
 #### 5.  Get all active AllDomains TLDs
@@ -180,12 +162,12 @@ getOwnedUnwrappedDomainsFromTld(new PublicKey(""), "poor");
 import { getAllTld } from "@onsol/tldparser";
 import { Connection } from "@solana/web3.js";
 
-const RPC_URL = 'https://api.mainnet-beta.solana.com';
+const RPC_URL = 'https://mainnetbeta-rpc.eclipse.xyz';
 
 // initialize a Solana Connection
 const connection = new Connection(RPC_URL);
 
-//get all active AllDomains TLDs
+// get all active AllDomains TLDs
 const allTlds = await getAllTld(connection);
 ```
 
@@ -195,7 +177,7 @@ const allTlds = await getAllTld(connection);
 import { NameRecordHeader, TldParser, findAllDomainsForTld, getAllTld } from "@onsol/tldparser";
 import { Connection } from "@solana/web3.js";
 
-const RPC_URL = 'https://api.mainnet-beta.solana.com';
+const RPC_URL = 'https://mainnetbeta-rpc.eclipse.xyz';
 
 // initialize a Solana Connection
 const connection = new Connection(RPC_URL);

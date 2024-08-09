@@ -164,13 +164,13 @@ async function getOwnedUnwrappedDomainsFromTld(owner, tld){
     return ownedUnwrappedDomainsFromTld;
 }
 
-//get owned unwraped domains in the ".abc" Tld, without the "."
+// get owned unwraped domains in the ".abc" Tld, without the "."
 getOwnedUnwrappedDomainsFromTld(new PublicKey(""), "abc");
 
-//get owned unwraped domains in the ".bonk" Tld
+// get owned unwraped domains in the ".bonk" Tld
 getOwnedUnwrappedDomainsFromTld(new PublicKey(""), "bonk");
 
-//get owned unwraped domains in the ".poor" Tld
+// get owned unwraped domains in the ".poor" Tld
 getOwnedUnwrappedDomainsFromTld(new PublicKey(""), "poor");
 ```
 
@@ -185,7 +185,7 @@ const RPC_URL = 'https://api.mainnet-beta.solana.com';
 // initialize a Solana Connection
 const connection = new Connection(RPC_URL);
 
-//get all active AllDomains TLDs
+// get all active AllDomains TLDs
 const allTlds = await getAllTld(connection);
 ```
 
