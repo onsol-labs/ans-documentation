@@ -48,4 +48,5 @@ Expanding its utility, you can utilize our domain names across the following pro
 | **Rugcheck**                                     | [https://rugcheck.xyz/verify/token](https://rugcheck.xyz/verify/token)                                                                                                          |
 | **SolMail**                                      | [https://solmail.so/](https://solmail.so/)                                                                                                                                      |
 | **SonarWatch**                                   | [https://sonar.watch/](https://sonar.watch/)                                                                                                                                    |
+| **Webacy**                                       | [https://www.webacy.com/](https://www.webacy.com/)                                                                                                                              |
 
