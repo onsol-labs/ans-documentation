@@ -24,11 +24,10 @@ Expanding its utility, you can utilize our domain names across the following pro
 
 ### Explorers:
 
-| Name           | About                                                        |
-| -------------- | ------------------------------------------------------------ |
-| **SolanaFM**   | [https://twitter.com/solanafm](https://twitter.com/solanafm) |
-| **SonarWatch** | [https://sonar.watch/](https://sonar.watch/)                 |
-| **Solscan**    | [https://solscan.io/](https://solscan.io/)                   |
+| Name         | About                                                        |
+| ------------ | ------------------------------------------------------------ |
+| **SolanaFM** | [https://twitter.com/solanafm](https://twitter.com/solanafm) |
+| **Solscan**  | [https://solscan.io/](https://solscan.io/)                   |
 
 ### **Tools:**
 
@@ -46,6 +45,7 @@ Expanding its utility, you can utilize our domain names across the following pro
 | **SolChat**                                      | [https://twitter.com/SolChatCoin](https://twitter.com/SolChatCoin)                                                                                                              |
 | **Matrica**                                      | [https://twitter.com/MatricaLabs](https://twitter.com/MatricaLabs)                                                                                                              |
 | **SolMail**                                      | [https://x.com/SolMailOfficial](https://x.com/SolMailOfficial)                                                                                                                  |
-| Rugcheck                                         | [https://rugcheck.xyz/verify/token](https://rugcheck.xyz/verify/token)                                                                                                          |
-| SolMail                                          | [https://solmail.so/](https://solmail.so/)                                                                                                                                      |
+| **Rugcheck**                                     | [https://rugcheck.xyz/verify/token](https://rugcheck.xyz/verify/token)                                                                                                          |
+| **SolMail**                                      | [https://solmail.so/](https://solmail.so/)                                                                                                                                      |
+| **SonarWatch**                                   | [https://sonar.watch/](https://sonar.watch/)                                                                                                                                    |
 
