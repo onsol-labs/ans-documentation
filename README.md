@@ -27,6 +27,6 @@ Our administrators will never:
 
 * AllDomains ->[ https://alldomains.id](https://alldomains.id)
 * Twitter ->[ https://twitter.com/AllDomains\_](https://twitter.com/AllDomains\_)
-* Discord ->[ https://t.co/RAP675K6hx](https://t.co/RAP675K6hx)
+* Discord ->[ ](https://t.co/RAP675K6hx)[https://discord.gg/alldomains](https://discord.gg/alldomains)
 * Telegram -> [https://t.me/AllDomainsID](https://t.me/AllDomainsID)
 {% endhint %}
