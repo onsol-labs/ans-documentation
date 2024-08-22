@@ -22,6 +22,6 @@ Also on the table **for consideration** is the migration of this new token to **
 
 
 
-**Snapshot for OG $ALL Holders:** A snapshot has been taken for original $ALL holders.. We deeply appreciate the support of our early community members. Updates on claiming the new token (as an old token holder) will be provided in the coming weeks.
+
 
 \
