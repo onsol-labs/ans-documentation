@@ -1,8 +1,12 @@
 # Yona SDK
 
-### How to integrate AllDomains Protocol:
+{% hint style="danger" %}
+Devnet Only
+{% endhint %}
 
-libraries are opensource with MIT licenses:\
+How to integrate AllDomains Protocol:
+
+Libraries are opensource with MIT licenses:\
 Typescript: [https://github.com/onsol-labs/tld-parser](https://github.com/onsol-labs/tld-parser)\
 Rust: [https://github.com/onsol-labs/tld-parse](https://github.com/onsol-labs/tld-parser)[-rs](https://github.com/onsol-labs/tld-parser-rs)
 
