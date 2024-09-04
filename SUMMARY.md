@@ -23,6 +23,7 @@
     * [SVM SDKs](developer-guide/ad-sdk/svm-sdks/README.md)
       * [Solana SDK](developer-guide/ad-sdk/svm-sdks/solana-sdk.md)
       * [Eclipse SDK](developer-guide/ad-sdk/svm-sdks/eclipse-sdk.md)
+      * [Yona SDK](developer-guide/ad-sdk/svm-sdks/yona-sdk.md)
     * [EVM SDKs](developer-guide/ad-sdk/evm-sdks.md)
     * [MOVE SDKs](developer-guide/ad-sdk/move-sdks.md)
   * [Records](developer-guide/records.md)
