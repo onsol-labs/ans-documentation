@@ -24,6 +24,8 @@
       * [Solana SDK](developer-guide/ad-sdk/svm-sdks/solana-sdk.md)
       * [Eclipse SDK](developer-guide/ad-sdk/svm-sdks/eclipse-sdk.md)
       * [Yona SDK](developer-guide/ad-sdk/svm-sdks/yona-sdk.md)
+      * [SONIC SDK](developer-guide/ad-sdk/svm-sdks/sonic-sdk.md)
+      * [SOON SDK](developer-guide/ad-sdk/svm-sdks/soon-sdk.md)
     * [EVM SDKs](developer-guide/ad-sdk/evm-sdks.md)
     * [MOVE SDKs](developer-guide/ad-sdk/move-sdks.md)
   * [Records](developer-guide/records.md)
