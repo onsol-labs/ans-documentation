@@ -30,7 +30,7 @@
     * [MOVE SDKs](developer-guide/ad-sdk/move-sdks.md)
   * [Records](developer-guide/records.md)
   * [Structure/Architecture](developer-guide/structure-architecture.md)
-  * [Integrations](developer-guide/integrations.md)
+* [Integrations](integrations.md)
 * [The AllDomains Experience](the-alldomains-experience/README.md)
   * [Referral Program](the-alldomains-experience/referral-program.md)
   * [Terms and conditions](the-alldomains-experience/terms-and-conditions.md)
