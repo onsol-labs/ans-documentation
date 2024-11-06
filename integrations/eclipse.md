@@ -2,10 +2,10 @@
 
 ### **Wallets:**
 
-| Name                 | About                                                                                   |
-| -------------------- | --------------------------------------------------------------------------------------- |
-| **Backpack**         | [https://twitter.com/Backpack](https://twitter.com/Backpack)                            |
-| Salmon (In Progress) | [ ](https://x.com/salmonwallet)[https://x.com/salmonwallet](https://x.com/salmonwallet) |
+| Name                     | About                                                                                   |
+| ------------------------ | --------------------------------------------------------------------------------------- |
+| **Backpack**             | [https://twitter.com/Backpack](https://twitter.com/Backpack)                            |
+| **Salmon** (In Progress) | [ ](https://x.com/salmonwallet)[https://x.com/salmonwallet](https://x.com/salmonwallet) |
 
 ### **Marketplaces:**
 
