@@ -49,4 +49,5 @@
 | **Biblio**                                       | [https://biblio.tech/](https://biblio.tech/)                                                                                                                                    |
 | **DotBlinkMe**                                   | [https://www.dotblink.me/search](https://www.dotblink.me/search)                                                                                                                |
 | **TipLink**                                      | [https://tiplink.io/](https://tiplink.io/)                                                                                                                                      |
+| Carrot                                           | [https://x.com/DeFiCarrot](https://x.com/DeFiCarrot)                                                                                                                            |
 
