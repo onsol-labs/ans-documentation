@@ -6,4 +6,4 @@ Support will be provided to each TLD to get the same integrations as the existin
 
 We would greatly appreciate your help bringing more integrations for the protocol online. More integrations make all our TLDs more valuable!
 
-The complete list of existing integrations can be viewed [here!](../integrations.md)
+The complete list of existing integrations can be viewed [here!](../integrations/)

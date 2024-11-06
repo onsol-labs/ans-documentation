@@ -1,8 +1,4 @@
-# Integrations
-
-**AllDomains** can seamlessly integrate with any application within the Solana ecosystem.
-
-Expanding its utility, you can utilize our domain names across the following products.
+# Solana
 
 ### **Wallets:**
 

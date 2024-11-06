@@ -7,5 +7,5 @@
 * Can be leveraged as a personal or business brand
 * Crypto equivalent of a custom license plate
 * Wrapped as NFTs can be sold on secondary markets
-* Can be [integrated](../integrations.md) with wallets, dApps, and other tools
+* Can be [integrated](../integrations/) with wallets, dApps, and other tools
 * Fun and easy to use

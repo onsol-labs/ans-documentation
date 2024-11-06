@@ -12,6 +12,15 @@ With AllDomains any user can choose not only a name they desire but also the com
 
 At the same time, AllDomains is the first protocol to **bridge the gap between Web2 and Web3** by enabling Web2 domain name registrations on Solana. To this end, we have launched **pilot domain name** registrations for the **.ID Web2 TLD**. These work for both their initially intended purposes and as Web3 domain names in parallel.
 
+{% hint style="success" %}
+**Only trust information provided by these official channels:**
+
+* AllDomains ->[ https://alldomains.id](https://alldomains.id)
+* Twitter ->[ https://twitter.com/AllDomains\_](https://twitter.com/AllDomains\_)
+* Discord ->[ ](https://t.co/RAP675K6hx)[https://discord.gg/alldomains](https://discord.gg/alldomains)
+* Telegram -> [https://t.me/AllDomainsID](https://t.me/AllDomainsID)
+{% endhint %}
+
 {% hint style="danger" %}
 **Beware of impersonators/scammers on social platforms**
 
@@ -20,13 +29,4 @@ Our administrators will never:
 * Direct message you first
 * Ask for funds
 * Ask for your private keys
-{% endhint %}
-
-{% hint style="success" %}
-**Only trust information provided by these official channels:**
-
-* AllDomains ->[ https://alldomains.id](https://alldomains.id)
-* Twitter ->[ https://twitter.com/AllDomains\_](https://twitter.com/AllDomains\_)
-* Discord ->[ ](https://t.co/RAP675K6hx)[https://discord.gg/alldomains](https://discord.gg/alldomains)
-* Telegram -> [https://t.me/AllDomainsID](https://t.me/AllDomainsID)
 {% endhint %}
