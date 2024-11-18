@@ -23,4 +23,12 @@
 
 ### **Tools:**
 
-**TBA**
+| Name       | About                                          |
+| ---------- | ---------------------------------------------- |
+| **Nimbus** | [https://getnimbus.io/](https://getnimbus.io/) |
+
+### Analytics
+
+|                |                                                                  |
+| -------------- | ---------------------------------------------------------------- |
+| Pine Analytics | [https://www.pineanalytics.xyz/](https://www.pineanalytics.xyz/) |
