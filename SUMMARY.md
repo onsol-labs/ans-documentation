@@ -35,6 +35,7 @@
   * [Eclipse](integrations/eclipse.md)
 * [The AllDomains Experience](the-alldomains-experience/README.md)
   * [Referral Program](the-alldomains-experience/referral-program.md)
+  * [On Eclipse](the-alldomains-experience/on-eclipse.md)
   * [Terms and conditions](the-alldomains-experience/terms-and-conditions.md)
 * [Partner Guide](partner-guide/README.md)
   * [How to set up Matrica](partner-guide/how-to-set-up-matrica.md)
