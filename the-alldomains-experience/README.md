@@ -18,13 +18,15 @@ You will earn points by completing various AllDomains-related tasks on our platf
 
 As you complete tasks you will find yourself surprised by all the different applications of our Domains, the features you can enable for them, and the features they can enable for communities.
 
-Some activities that may get you points during Season 1 include:
+Some activities that will get you points during Season 1 include:
 
 * **Owning an unexpired Domain**
 * **Renewing a Domain**
 * **Setting up your Main Domain**
 * **Joining Discord**
-* **Opting into Dialect notifications for Domains**
+* **Opting in to Dialect notifications for Domains**&#x20;
+* **Holding specific web3 tokens and NFTs (SMBs, Lads, Saga Genesis and Chapter 2 etc.)**
+* **Participating in our Referral Links program**
 
 Season 1 will unquestionably have more tasks that could earn you points.&#x20;
 
