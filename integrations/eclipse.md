@@ -6,6 +6,7 @@
 | ------------------------ | --------------------------------------------------------------------------------------- |
 | **Backpack**             | [https://twitter.com/Backpack](https://twitter.com/Backpack)                            |
 | **Salmon** (In Progress) | [ ](https://x.com/salmonwallet)[https://x.com/salmonwallet](https://x.com/salmonwallet) |
+| **Nightly**              | [https://x.com/Nightly\_app](https://x.com/Nightly_app)                                 |
 
 ### **Marketplaces:**
 
@@ -23,12 +24,15 @@
 
 ### **Tools:**
 
-| Name       | About                                          |
-| ---------- | ---------------------------------------------- |
-| **Nimbus** | [https://getnimbus.io/](https://getnimbus.io/) |
+| Name           | About                                                      |
+| -------------- | ---------------------------------------------------------- |
+| **Nimbus**     | [https://getnimbus.io/](https://getnimbus.io/)             |
+| **FightHorse** | [https://x.com/thefighthorse](https://x.com/thefighthorse) |
 
 ### Analytics
 
-|                |                                                                  |
-| -------------- | ---------------------------------------------------------------- |
-| Pine Analytics | [https://www.pineanalytics.xyz/](https://www.pineanalytics.xyz/) |
+|                    |                                                                  |
+| ------------------ | ---------------------------------------------------------------- |
+| **Pine Analytics** | [https://www.pineanalytics.xyz/](https://www.pineanalytics.xyz/) |
+| **MoonLaunchFun**  | [https://x.com/Moonlaunchfun](https://x.com/Moonlaunchfun)       |
+
