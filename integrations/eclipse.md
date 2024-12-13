@@ -24,15 +24,15 @@
 
 ### **Tools:**
 
-| Name           | About                                                      |
-| -------------- | ---------------------------------------------------------- |
-| **Nimbus**     | [https://getnimbus.io/](https://getnimbus.io/)             |
-| **FightHorse** | [https://x.com/thefighthorse](https://x.com/thefighthorse) |
+| Name               | About                                                      |
+| ------------------ | ---------------------------------------------------------- |
+| **Nimbus**         | [https://getnimbus.io/](https://getnimbus.io/)             |
+| **FightHorse**     | [https://x.com/thefighthorse](https://x.com/thefighthorse) |
+| **MoonLaunchFun**  | [https://x.com/Moonlaunchfun](https://x.com/Moonlaunchfun) |
 
 ### Analytics
 
 |                    |                                                                  |
 | ------------------ | ---------------------------------------------------------------- |
 | **Pine Analytics** | [https://www.pineanalytics.xyz/](https://www.pineanalytics.xyz/) |
-| **MoonLaunchFun**  | [https://x.com/Moonlaunchfun](https://x.com/Moonlaunchfun)       |
 
