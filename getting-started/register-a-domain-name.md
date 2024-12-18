@@ -2,7 +2,7 @@
 
 #### To r**egister a new domain:**
 
-1. Go to[ alldomains.id](https://alldomains.id/)​
+1. Go to [alldomains.id](https://alldomains.id/)​
 2. Search for the domain name you want:
 
 <figure><img src="../.gitbook/assets/Capture1.PNG" alt=""><figcaption><p>Search for a Domain Name </p></figcaption></figure>
