@@ -36,7 +36,7 @@ See the [Records](../developer-guide/records.md) section for the complete list.
 {% hint style="warning" %}
 You can only edit records for unwrapped domain names. \
 \
-See _Wrap/Unwrap a domain name to/from an NFT_ bellow!
+See _Wrap/Unwrap a domain name to/from an NFT_ below!
 {% endhint %}
 
 ### Transfer a domain
