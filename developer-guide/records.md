@@ -6,14 +6,14 @@ The following records are currently available on AllDomains Protocol:
 | -------- | -------------------- |
 | IPFS     | An IPFS CID          |
 | ARWV     | An Arweave address   |
-| SOL      | A address            |
+| SOL      | An address           |
 | ETH      | An ETH address       |
 | BTC      | A BTC address        |
-| LTC      | A LTC address        |
-| DOGE     | A DOGE address       |
+| LTC      | An LTC address       |
+| DOGE     | An DOGE address      |
 | email    | An Email address     |
 | url      | A website URL        |
-| discord  | A discord username   |
+| discord  | A Discord username   |
 | github   | A Github username    |
 | reddit   | A Reddit username    |
 | twitter  | A Twitter username   |
