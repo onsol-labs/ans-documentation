@@ -2,7 +2,7 @@
 
 ## ANS
 
-ANS - All Name Service: a Solana Program that allows users create human readable domain names that can be used in place of a Public Key.&#x20;
+ANS - All Name Service: a Solana Program that allows users to create human readable domain names that can be used in place of a Public Key.&#x20;
 
 Deployed on [Mainnet](https://explorer.solana.com/address/ALTNSZ46uaAUU7XUV6awvdorLGqAsPwa9shm7h4uP2FK) and [Devnet](https://explorer.solana.com/address/ALTNSZ46uaAUU7XUV6awvdorLGqAsPwa9shm7h4uP2FK?cluster=devnet).
 

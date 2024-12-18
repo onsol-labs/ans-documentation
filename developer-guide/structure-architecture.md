@@ -16,15 +16,15 @@ pub struct NameRecordHeader {
     // If `Pubkey::default()` the data is unspecified.
     pub nclass: Pubkey,
 
-    // expires_at is an unix timestamp in UTC.
-    // programs must respect the expiry_at. after by which a rent is void.
+    // expires_at is a Unix timestamp in UTC.
+    // programs must respect the expires_at. after which rent is void.
     // the data is invalid unless extended by the owner or
     // new owner comes with new data replacing the old one.
     // defaults to 0
     // if it is 0, the domain is forever
     pub expires_at: u64,
 
-    // time in unix timestamp in utc.
+    // time in a Unix timestamp in UTC.
     // when the name account has been created.
     pub created_at: u64,
 

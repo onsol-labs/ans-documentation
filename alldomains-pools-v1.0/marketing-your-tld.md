@@ -4,11 +4,11 @@ Now that your TLD is live implementing a few basic marketing tactics is essentia
 
 
 
-First thing first! If you are not a member of our discord server, join it here: [https://discord.gg/Xf7YQQccaq](https://discord.gg/Xf7YQQccaq).
+First things first! If you are not a member of our discord server, join it here: [https://discord.gg/Xf7YQQccaq](https://discord.gg/Xf7YQQccaq).
 
 
 
-Second, you will want to create a dedicated Twitter/X account for your new TLD and add it to the TLD list, so we ALL know to follow you!
+Second, you will want to create a dedicated X account for your new TLD and add it to the TLD list, so we ALL know to follow you!
 
 When people are interested in learning about your custom domain or would like to purchase, you want them to be able to access the information quickly and easily. &#x20;
 
@@ -24,7 +24,7 @@ All these listed above are standard methods to beat the algorithm and increase v
 
 
 
-**A few other general tips for Twitter visibility:**
+**A few other general tips for X visibility:**
 
 \- tweets with graphics or gifs attached get boosted in the algo
 

@@ -34,7 +34,7 @@ Alternatively, you can also request support from AllDomains who will be happy to
 
 4. Matrica will then enable domain name verification for your Discord and Telegram communities.
 
-## **Seting up Discord Verification**
+## **Setting up Discord Verification**
 
 1. Go to your “Verification” page and invite the Matrica Bot to your Discord Server. This will automatically create the Bot's “Matrica” role in your Discord.
 2. Create the role(s) you want your domain name holders to have (e.g., .bonk domain; feel free to be creative).
@@ -48,7 +48,7 @@ You can even put Matrica as the highest on the Role List to make sure everyone g
 
 ### **Setting up the Rules**&#x20;
 
-Now that the bot has been set up in your Discord is time to create the verifying rules.
+Now that the bot has been set up in your Discord Settingit is time to create the verifying rules.
 
 1. Head back to [https://business.matrica.io/verification](https://business.matrica.io/verification) and click the _**Create New Rule**_ button:
 
@@ -83,7 +83,7 @@ Setting up Telegram is easier: Just invite the Telegram Bot to your Group and cr
 **If you want your Telegram Group to stay Public do not use the Matrica Bot!**
 {% endhint %}
 
-The Telegram Bot can only gate **the entire group** and **can not be used to gate** just certain parts of it **(Topics)**. This essentially transforms your Public Group into a Private Group (gated by domain name ownership)
+The Telegram Bot can only gate **the entire group** and **cannot be used to gate** just certain parts of it **(Topics)**. This essentially transforms your Public Group into a Private Group (gated by domain name ownership)
 
 ## Additional sources and information
 

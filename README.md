@@ -16,7 +16,7 @@ At the same time, AllDomains is the first protocol to **bridge the gap between W
 **Only trust information provided by these official channels:**
 
 * AllDomains ->[ https://alldomains.id](https://alldomains.id)
-* Twitter ->[ https://twitter.com/AllDomains\_](https://twitter.com/AllDomains\_)
+* X ->[ https://x.com/AllDomains\_](https://x.com/AllDomains\_)
 * Discord ->[ ](https://t.co/RAP675K6hx)[https://discord.gg/alldomains](https://discord.gg/alldomains)
 * Telegram -> [https://t.me/AllDomainsID](https://t.me/AllDomainsID)
 {% endhint %}

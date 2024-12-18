@@ -4,7 +4,7 @@
 
 | Name                     | About                                                                                   |
 | ------------------------ | --------------------------------------------------------------------------------------- |
-| **Backpack**             | [https://twitter.com/Backpack](https://twitter.com/Backpack)                            |
+| **Backpack**             | [https://x.com/Backpack](https://x.com/Backpack)                            |
 | **Salmon** (In Progress) | [ ](https://x.com/salmonwallet)[https://x.com/salmonwallet](https://x.com/salmonwallet) |
 | **Nightly**              | [https://x.com/Nightly\_app](https://x.com/Nightly_app)                                 |
 

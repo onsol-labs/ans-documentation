@@ -1,6 +1,6 @@
 # Contact
 
-Twitter -> [https://twitter.com/AllDomains\_](https://twitter.com/AllDomains\_)
+X -> [https://x.com/AllDomains\_](https://X.com/AllDomains\_)
 
 Github -> [https://github.com/onsol-labs](https://github.com/onsol-labs)
 
