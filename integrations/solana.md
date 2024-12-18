@@ -4,26 +4,26 @@
 
 | Name              | About                                                                       |
 | ----------------- | --------------------------------------------------------------------------- |
-| **Solflare**      | [https://twitter.com/solflare\_wallet](https://twitter.com/solflare_wallet) |
-| **Phantom**       | [https://twitter.com/phantom](https://twitter.com/phantom)                  |
-| **Helium Wallet** | [https://twitter.com/helium](https://twitter.com/helium)                    |
-| **Backpack**      | [https://twitter.com/Backpack](https://twitter.com/Backpack)                |
+| **Solflare**      | [https://x.com/solflare\_wallet](https://x.com/solflare_wallet) |
+| **Phantom**       | [https://x.com/phantom](https://x.com/phantom)                  |
+| **Helium Wallet** | [https://x.com/helium](https://x.com/helium)                    |
+| **Backpack**      | [https://x.com/Backpack](https://x.com/Backpack)                |
 | **Nightly**       | [https://x.com/Nightly\_app](https://x.com/Nightly_app)                     |
 
 ### **Marketplaces:**
 
 | Name           | About                                                                  |
 | -------------- | ---------------------------------------------------------------------- |
-| **MagicEden**  | [https://twitter.com/MagicEden](https://twitter.com/MagicEden)         |
-| **Hyperspace** | [https://twitter.com/hyperspacexyz](https://twitter.com/hyperspacexyz) |
-| **Hadeswap**   | [https://twitter.com/hadeswap](https://twitter.com/hadeswap)           |
-| **Tensor**     | [https://twitter.com/tensor\_hq](https://twitter.com/tensor_hq)        |
+| **MagicEden**  | [https://x.com/MagicEden](https://x.com/MagicEden)         |
+| **Hyperspace** | [https://x.com/hyperspacexyz](https://x.com/hyperspacexyz) |
+| **Hadeswap**   | [https://x.com/hadeswap](https://x.com/hadeswap)           |
+| **Tensor**     | [https://x.com/tensor\_hq](https://x.com/tensor_hq)        |
 
 ### Explorers:
 
 | Name               | About                                                        |
 | ------------------ | ------------------------------------------------------------ |
-| **SolanaFM**       | [https://twitter.com/solanafm](https://twitter.com/solanafm) |
+| **SolanaFM**       | [https://x.com/solanafm](https://x.com/solanafm) |
 | **Solscan**        | [https://solscan.io/](https://solscan.io/)                   |
 | **SolanaExplorer** | [https://explorer.solana.com/](https://explorer.solana.com/) |
 
@@ -31,17 +31,17 @@
 
 | Name                                            | About                                                                                                                                                                           |
 | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Squads**                                      | <p><a href="https://twitter.com/SquadsProtocol">https://twitter.com/SquadsProtocol<br></a>Solana MultiSig management protocol for web3 native teams</p>                         |
-| **Dialect**                                     | <p><a href="https://twitter.com/saydialect">https://twitter.com/saydialect<br></a>Enabling a more engaging dapp experience with timely, targeted messages and notifications</p> |
-| **Solstis**[ ](https://twitter.com/solstis_app) | [https://twitter.com/solstis\_app](https://twitter.com/solstis_app)                                                                                                             |
+| **Squads**                                      | <p><a href="https://x.com/SquadsProtocol">https://x.com/SquadsProtocol<br></a>Solana MultiSig management protocol for web3 native teams</p>                         |
+| **Dialect**                                     | <p><a href="https://x.com/saydialect">https://x.com/saydialect<br></a>Enabling a more engaging dapp experience with timely, targeted messages and notifications</p> |
+| **Solstis**[ ](https://x.com/solstis_app) | [https://x.com/solstis\_app](https://x.com/solstis_app)                                                                                                             |
 | **Solana ChatGPT Plugin**                       | [https://chat.openai.com/](https://chat.openai.com/)                                                                                                                            |
-| **FluxBeam**                                    | [https://twitter.com/FluxBeamDEX](https://twitter.com/FluxBeamDEX)                                                                                                              |
-| **Solfees**                                     | [https://twitter.com/ronnyhaase](https://twitter.com/ronnyhaase)                                                                                                                |
-| **Birdeye**                                     | [https://twitter.com/birdeye\_so](https://twitter.com/birdeye_so)                                                                                                               |
-| **CryptoSlam**                                  | [https://twitter.com/cryptoslamio](https://twitter.com/cryptoslamio)                                                                                                            |
+| **FluxBeam**                                    | [https://x.com/FluxBeamDEX](https://x.com/FluxBeamDEX)                                                                                                              |
+| **Solfees**                                     | [https://x.com/ronnyhaase](https://x.com/ronnyhaase)                                                                                                                |
+| **Birdeye**                                     | [https://x.com/birdeye\_so](https://x.com/birdeye_so)                                                                                                               |
+| **CryptoSlam**                                  | [https://x.com/cryptoslamio](https://x.com/cryptoslamio)                                                                                                            |
 | **Solworks AirdropChecker**                     | [https://solana-airdrop-checker.solworks.dev/](https://solana-airdrop-checker.solworks.dev/)                                                                                    |
-| **SolChat**                                     | [https://twitter.com/SolChatCoin](https://twitter.com/SolChatCoin)                                                                                                              |
-| **Matrica**                                     | [https://twitter.com/MatricaLabs](https://twitter.com/MatricaLabs)                                                                                                              |
+| **SolChat**                                     | [https://x.com/SolChatCoin](https://x.com/SolChatCoin)                                                                                                              |
+| **Matrica**                                     | [https://x.com/MatricaLabs](https://x.com/MatricaLabs)                                                                                                              |
 | **SolMail**                                     | [https://x.com/SolMailOfficial](https://x.com/SolMailOfficial)                                                                                                                  |
 | **Rugcheck**                                    | [https://rugcheck.xyz/verify/token](https://rugcheck.xyz/verify/token)                                                                                                          |
 | **SolMail**                                     | [https://solmail.so/](https://solmail.so/)                                                                                                                                      |
