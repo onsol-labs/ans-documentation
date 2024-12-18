@@ -4,7 +4,7 @@ Now that your TLD is live implementing a few basic marketing tactics is essentia
 
 
 
-First thing first! If you are not a member of our discord server, join it here: [https://discord.gg/Xf7YQQccaq](https://discord.gg/Xf7YQQccaq).
+First things first! If you are not a member of our discord server, join it here: [https://discord.gg/Xf7YQQccaq](https://discord.gg/Xf7YQQccaq).
 
 
 
