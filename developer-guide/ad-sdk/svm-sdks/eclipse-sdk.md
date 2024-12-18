@@ -2,7 +2,7 @@
 
 ### How to integrate AllDomains Protocol:
 
-libraries are opensource with MIT licenses:\
+libraries are open-source with MIT licenses:\
 Typescript: [https://github.com/onsol-labs/tld-parser](https://github.com/onsol-labs/tld-parser)\
 Rust: [https://github.com/onsol-labs/tld-parse](https://github.com/onsol-labs/tld-parser)[-rs](https://github.com/onsol-labs/tld-parser-rs)
 
@@ -152,7 +152,7 @@ async function getOwnedUnwrappedDomainsFromTld(owner, tld){
     return ownedUnwrappedDomainsFromTld;
 }
 
-// get owned unwraped domains in the ".turbo" Tld, without the "."
+// get owned unwrapped domains in the ".turbo" Tld, without the "."
 getOwnedUnwrappedDomainsFromTld(new PublicKey(""), "turbo");
 ```
 
@@ -481,7 +481,7 @@ export const getMultipleMainDomains = async (
   });
 };
 
-// retrives users main domain in batches of 100 with pLimit of 20 it calls the rpc 20 times per second
+// retrieves users main domain in batches of 100 with pLimit of 20 it calls the rpc 20 times per second
 // thus, 2000 accounts data can be fetched per second.
 // pLimit could be increased depending on your rpc limits.
 async function getMainDomainsSample(connection: Connection, data: any[]) {
