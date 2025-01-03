@@ -51,4 +51,6 @@
 | **DotBlinkMe**                                  | [https://www.dotblink.me/search](https://www.dotblink.me/search)                                                                                                                |
 | **TipLink**                                     | [https://tiplink.io/](https://tiplink.io/)                                                                                                                                      |
 | **CarrotDeFi**                                  | [https://x.com/DeFiCarrot](https://x.com/DeFiCarrot)                                                                                                                            |
+| **Realms**                                      | [https://app.realms.today/realms](https://app.realms.today/realms)                                                                                                              |
+| Solana Agent Kit                                | [https://www.solanaagentkit.xyz/](https://www.solanaagentkit.xyz/)                                                                                                              |
 
