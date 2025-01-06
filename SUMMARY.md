@@ -23,7 +23,7 @@
     * [SVM SDKs](developer-guide/ad-sdks/svm-sdks/README.md)
       * [Solana mainnet SDK](developer-guide/ad-sdks/svm-sdks/solana-mainnet-sdk.md)
       * [Eclipse mainnet SDK](developer-guide/ad-sdks/svm-sdks/eclipse-mainnet-sdk.md)
-      * [Soon mainnet SDK](developer-guide/ad-sdks/svm-sdks/soon-mainnet-sdk.md)
+      * [SOON mainnet SDK](developer-guide/ad-sdks/svm-sdks/soon-mainnet-sdk.md)
       * [Yona devnet SDK](developer-guide/ad-sdks/svm-sdks/yona-devnet-sdk.md)
       * [Sonic devnet SDK](developer-guide/ad-sdks/svm-sdks/sonic-devnet-sdk.md)
     * [EVM SDKs](developer-guide/ad-sdks/evm-sdks.md)

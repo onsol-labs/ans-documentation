@@ -1,4 +1,4 @@
-# Soon mainnet SDK
+# SOON mainnet SDK
 
 How to integrate AllDomains Protocol:
 
@@ -36,8 +36,8 @@ async function resolveDomain(domain){
     return await parser.getOwnerFromDomainTld(domain);
 }
 
-//get the owner pubkey of "miester.turbo";
-resolveDomain("miester.turbo");
+//get the owner pubkey of "miester.soon";
+resolveDomain("miester.soon");
 
 ```
 
@@ -125,7 +125,7 @@ const connection = new Connection(RPC_URL);
     return ownedDomainsFromTld;
 }
 
-// get all owned domains in the ".turbo" Tld, without the "."
+// get all owned domains in the ".soon" Tld, without the "."
 getOwnedDomainsFromTld(new PublicKey(""), "turbo");
 </code></pre>
 
@@ -152,7 +152,7 @@ async function getOwnedUnwrappedDomainsFromTld(owner, tld){
     return ownedUnwrappedDomainsFromTld;
 }
 
-// get owned unwraped domains in the ".turbo" Tld, without the "."
+// get owned unwraped domains in the ".soon" Tld, without the "."
 getOwnedUnwrappedDomainsFromTld(new PublicKey(""), "turbo");
 ```
 
@@ -255,7 +255,7 @@ console.log(await fetchMainDomain(CONNECTION, "2EGGxj2qbNAJNgLCPKca8sxZYetyTjnoR
 //     nameAccount: PublicKey [PublicKey(9YzfCEHb62bQ47snUyjkxhC9Eb6y7CSodK3m8CKWstjV)] {
 //       _bn: <BN: 7f0fb1f72ae0af9c5e7f5e4190d02ed2a720e88fb5787425157b9a9ec3fc39ec>
 //     },
-//     tld: '.abc',
+//     tld: '.soon',
 //     domain: 'miester'
 //   }
 ```
