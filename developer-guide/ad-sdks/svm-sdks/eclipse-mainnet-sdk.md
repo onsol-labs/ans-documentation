@@ -1,4 +1,4 @@
-# Eclipse SDK
+# Eclipse mainnet SDK
 
 ### How to integrate AllDomains Protocol:
 
@@ -255,7 +255,7 @@ console.log(await fetchMainDomain(CONNECTION, "2EGGxj2qbNAJNgLCPKca8sxZYetyTjnoR
 //     nameAccount: PublicKey [PublicKey(9YzfCEHb62bQ47snUyjkxhC9Eb6y7CSodK3m8CKWstjV)] {
 //       _bn: <BN: 7f0fb1f72ae0af9c5e7f5e4190d02ed2a720e88fb5787425157b9a9ec3fc39ec>
 //     },
-//     tld: '.abc',
+//     tld: '.turbo',
 //     domain: 'miester'
 //   }
 ```
