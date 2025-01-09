@@ -32,7 +32,13 @@
 
 ### Analytics
 
-|                    |                                                                  |
+| Name               | About                                                            |
 | ------------------ | ---------------------------------------------------------------- |
 | **Pine Analytics** | [https://www.pineanalytics.xyz/](https://www.pineanalytics.xyz/) |
 
+### Leaderboards
+
+| Name            | About                                                                                  |
+| --------------- | -------------------------------------------------------------------------------------- |
+| **Sharp Trade** | [https://eclipse.sharptrade.fi/leaderboard](https://eclipse.sharptrade.fi/leaderboard) |
+| **Purebet**     | [https://exchange.purebet.io/leaderboard](https://exchange.purebet.io/leaderboard)     |
