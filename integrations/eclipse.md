@@ -42,3 +42,4 @@
 | --------------- | -------------------------------------------------------------------------------------- |
 | **Sharp Trade** | [https://eclipse.sharptrade.fi/leaderboard](https://eclipse.sharptrade.fi/leaderboard) |
 | **Purebet**     | [https://exchange.purebet.io/leaderboard](https://exchange.purebet.io/leaderboard)     |
+| **Invariant**   | [https://eclipse.invariant.app/points](https://eclipse.invariant.app/points)           |

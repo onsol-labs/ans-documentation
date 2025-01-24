@@ -34,7 +34,7 @@
 | **Squads**                                      | <p><a href="https://twitter.com/SquadsProtocol">https://twitter.com/SquadsProtocol<br></a>Solana MultiSig management protocol for web3 native teams</p>                         |
 | **Dialect**                                     | <p><a href="https://twitter.com/saydialect">https://twitter.com/saydialect<br></a>Enabling a more engaging dapp experience with timely, targeted messages and notifications</p> |
 | **Solstis**[ ](https://twitter.com/solstis_app) | [https://twitter.com/solstis\_app](https://twitter.com/solstis_app)                                                                                                             |
-| **Solana ChatGPT Plugin**                       | [https://chat.openai.com/](https://chat.openai.com/)                                                                                                                            |
+| **Solana ChatGPT Plugin**                       | [https://chatgpt.solanalabs.com/](https://chatgpt.solanalabs.com/)                                                                                                              |
 | **FluxBeam**                                    | [https://twitter.com/FluxBeamDEX](https://twitter.com/FluxBeamDEX)                                                                                                              |
 | **Solfees**                                     | [https://twitter.com/ronnyhaase](https://twitter.com/ronnyhaase)                                                                                                                |
 | **Birdeye**                                     | [https://twitter.com/birdeye\_so](https://twitter.com/birdeye_so)                                                                                                               |
@@ -53,7 +53,7 @@
 | **CarrotDeFi**                                  | [https://x.com/DeFiCarrot](https://x.com/DeFiCarrot)                                                                                                                            |
 | **Realms**                                      | [https://app.realms.today/realms](https://app.realms.today/realms)                                                                                                              |
 | **Solana Agent Kit**                            | [https://www.solanaagentkit.xyz/](https://www.solanaagentkit.xyz/)                                                                                                              |
-| **Step Finance**                                |                                                                                                                                                                                 |
+| **Step Finance**                                | [https://app.step.finance/en/dashboard](https://app.step.finance/en/dashboard)                                                                                                  |
 
 ### Leaderboards
 
