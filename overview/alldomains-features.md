@@ -18,9 +18,9 @@ Having renewable domain names prevents people from squatting on a whole bag of d
 
 **Going multi-chain**
 
-As part of our ongoing pledge to bring customizable and easy-to-use domain names to everyone, AllDomains aims to expand across multiple blockchains. .Turbo, our first TLD outside of Solana, is now live on Eclipse, and we are looking forward to opening custom TLD creation for everyone on Eclipse as well. \
-\
-As we develop and enrich our Protocol, we are eagerly anticipating deploying on more SVM chains, and our first EVM and MOVE contracts as well.
+While most of AllDomains is currently built on Solana, our long-term vision extends beyond a single blockchain. Our aim is to become a cross-chain solution, facilitating the bridging of domains from other blockchains to Solana and vice versa.
+
+We are excited to announce that AllDomains is **now live on Eclipse and SOON SVM**, further expanding our reach. Additionally, we will be **live on Monad as soon as its Mainnet launches.** Our commitment to seamless interoperability continues as we connect domains with major blockchains like Ethereum, Bitcoin, Arbitrum, and more.
 
 
 
