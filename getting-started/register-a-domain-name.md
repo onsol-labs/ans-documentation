@@ -19,5 +19,5 @@ Feel free to play around and discover your best choice!
 4. Once you have decided on the domain name you want to purchase, select the SPL you want to use for your purchase and the renewal period, and click Buy Now.&#x20;
 
 {% hint style="info" %}
-Some domain names are only available through community-specific tokens (e.g. .monke domains require a specific token you can only acquire through the Banana Stand)
+Some domain names are only available through community-specific tokens (e.g. .superteam domains require a specific token you can only acquire from Superteam)
 {% endhint %}

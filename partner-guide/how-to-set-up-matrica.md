@@ -34,7 +34,7 @@ Alternatively, you can also request support from AllDomains who will be happy to
 
 4. Matrica will then enable domain name verification for your Discord and Telegram communities.
 
-## **Seting up Discord Verification**
+## **Setting up Discord Verification**
 
 1. Go to your “Verification” page and invite the Matrica Bot to your Discord Server. This will automatically create the Bot's “Matrica” role in your Discord.
 2. Create the role(s) you want your domain name holders to have (e.g., .bonk domain; feel free to be creative).

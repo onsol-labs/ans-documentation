@@ -1,4 +1,4 @@
-# Manage your domains
+# Manage your Domains
 
 To manage your domains, go to[ ](https://abc.onsol.io/)[alldomains.id](https://alldomains.id/), connect your wallet click on it again, and go to your personal profile:
 
@@ -36,7 +36,7 @@ See the [Records](../developer-guide/records.md) section for the complete list.
 {% hint style="warning" %}
 You can only edit records for unwrapped domain names. \
 \
-See _Wrap/Unwrap a domain name to/from an NFT_ bellow!
+See _Wrap/Unwrap a domain name to/from an NFT_ below!
 {% endhint %}
 
 ### Transfer a domain
