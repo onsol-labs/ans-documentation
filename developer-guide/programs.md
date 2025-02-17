@@ -30,16 +30,6 @@ Deployed on [Mainnet](https://explorer.solana.com/address/NH3uX6FtVE2fNREAioP7hm
 NH3uX6FtVE2fNREAioP7hm5RaozotZxeL6khU1EHx51
 ```
 
-## Bridge Name Service 👀
-
-A Solana Program that takes bridged .eth domains (through Wormhole) and emits an AllDomains .eth domain in exchange.
-
-Deployed on [Mainnet](https://explorer.solana.com/address/BNSwwSqW7HkAviEjNYhkMKws9jRerzMwb6yvKyYHPeqT) and [Devnet](https://explorer.solana.com/address/BNSwwSqW7HkAviEjNYhkMKws9jRerzMwb6yvKyYHPeqT?cluster=devnet).
-
-```
-BNSwwSqW7HkAviEjNYhkMKws9jRerzMwb6yvKyYHPeqT
-```
-
 ## TLD Manager
 
 to be updated
