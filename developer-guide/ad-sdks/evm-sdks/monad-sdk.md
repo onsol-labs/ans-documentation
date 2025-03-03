@@ -23,7 +23,7 @@ npm install @onsol/tldparser
 #### 1. Initialize EVM Connection
 
 ```javascript
-import { TldParser, NetworkWithRpc } from 'tld-parser';
+import { TldParser, NetworkWithRpc } from '@onsol/tldparser';
 import { getAddress } from 'ethers';
 
 // Set up RPC URL and initialize a network instance
@@ -70,81 +70,3 @@ const nameRecord = await parser.getNameRecordFromDomainTld('miester.mon');
 * `getOwnerFromDomainTld(domainTld)`: Retrieves the owner of a domain.
 * `getNameRecordFromDomainTld(domainTld)`: Retrieves detailed record data for a domain.
 * `getMainDomain(userAddress)`: Retrieves the user's main domain.
-
-### Additional Concepts and Example Implementations
-
-#### Domain Resolution
-
-Use the following code to get the public key owner of a domain name:
-
-```javascript
-import { TldParser } from "@onsol/tldparser";
-import { Connection } from "@solana/web3.js";
-
-const RPC_URL = 'https://api.mainnet-beta.solana.com';
-const connection = new Connection(RPC_URL);
-
-async function resolveDomain(domain){
-    const parser = new TldParser(connection);
-    return await parser.getOwnerFromDomainTld(domain);
-}
-
-// Example of usage
-resolveDomain("miester.abc");
-```
-
-#### Get All Domains Owned by a Public Key
-
-```javascript
-async function getOwnedDomains(owner) {
-    const parser = new TldParser(connection);
-    let allUserDomains = await parser.getParsedAllUserDomains(owner);
-    return allUserDomains;
-}
-
-// Example usage:
-getOwnedDomains(new PublicKey("YOUR_PUBLIC_KEY"));
-```
-
-#### Get All Active AllDomains TLDs
-
-```javascript
-import { getAllTld } from "@onsol/tldparser";
-
-const allTlds = await getAllTld(connection);
-```
-
-#### Get All Registered Domains
-
-```javascript
-async function getAllRegisteredDomains(connection) {
-    // Similar functionality as previously detailed.
-}
-
-// Example usage:
-console.log(await getAllRegisteredDomains(connection));
-```
-
-#### Fetch User Main Domain
-
-You can retrieve a user's main domain using the following code:
-
-```javascript
-const fetchMainDomain = async (connection, pubkey) => {
-    const [mainDomainPubkey] = findMainDomain(pubkey);
-    let mainDomain = undefined;
-    try {
-        mainDomain = await MainDomain.fromAccountAddress(
-            connection,
-            mainDomainPubkey,
-        );
-        return mainDomain;
-    } catch (e) {
-        console.error("No main domain found");
-    }
-    return mainDomain;
-};
-
-// Example usage:
-const mainDomain = await fetchMainDomain
-```
