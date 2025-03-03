@@ -19,9 +19,3 @@ Also on the table **for consideration** is the migration of this new token to **
 
 
 **Abundance of New Features:** We are excited to introduce TLD yield, emoji TLDs, Web2 domain tokenization, community/protocol token incentives in certain TLD pools, a new layer to domain functionality in web3, and hosting services. These features will be gradually rolled out in the coming months. Stay tuned for updates in our Discord channel for further updates.&#x20;
-
-
-
-
-
-\
