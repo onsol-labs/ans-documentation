@@ -1,8 +1,4 @@
-# SONIC SDK
-
-{% hint style="danger" %}
-Devnet Only
-{% endhint %}
+# Sonic mainnet SDK
 
 How to integrate AllDomains Protocol:
 
@@ -26,7 +22,7 @@ The following code shows how to get the Public Key owner of a domain name
 import { TldParser } from "@onsol/tldparser";
 import { Connection } from "@solana/web3.js";
 
-const RPC_URL = 'https://devnet.sonic.game/';
+export const SONIC_MAINNET = "https://rpc.mainnet-alpha.sonic.game/";
 
 // initialize a Solana Connection
 const connection = new Connection(RPC_URL);
@@ -55,7 +51,7 @@ resolveDomain("miester.turbo");
 import { TldParser, NameRecordHeader } from "@onsol/tldparser";
 import { Connection, PublicKey } from "@solana/web3.js";
 
-const RPC_URL = 'https://devnet.sonic.game/';
+export const SONIC_MAINNET = "https://rpc.mainnet-alpha.sonic.game/";
 
 // initialize a Solana Connection
 const connection = new Connection(RPC_URL);
@@ -82,7 +78,7 @@ getOwnedDomains(new PublicKey(""));
 import { TldParser, NameRecordHeader } from "@onsol/tldparser";
 import { Connection, PublicKey } from "@solana/web3.js";
 
-const RPC_URL = 'https://devnet.sonic.game/';
+export const SONIC_MAINNET = "https://rpc.mainnet-alpha.sonic.game/";
 
 // initialize a Solana Connection
 const connection = new Connection(RPC_URL);
@@ -112,7 +108,7 @@ getOwnedUnwrappedDomains(new PublicKey(""));
 <pre class="language-typescript"><code class="lang-typescript">import { TldParser, NameRecordHeader } from "@onsol/tldparser";
 import { Connection, PublicKey } from "@solana/web3.js";
 
-const RPC_URL = 'https://devnet.sonic.game/';
+export const SONIC_MAINNET = "https://rpc.mainnet-alpha.sonic.game/";
 
 // initialize a Solana Connection
 const connection = new Connection(RPC_URL);
@@ -139,7 +135,7 @@ getOwnedDomainsFromTld(new PublicKey(""), "turbo");
 import { TldParser, NameRecordHeader } from "@onsol/tldparser";
 import { Connection, PublicKey } from "@solana/web3.js";
 
-const RPC_URL = 'https://devnet.sonic.game/';
+export const SONIC_MAINNET = "https://rpc.mainnet-alpha.sonic.game/";
 
 // initialize a Solana Connection
 const connection = new Connection(RPC_URL);
