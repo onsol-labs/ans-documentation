@@ -34,6 +34,7 @@
 * [Integrations](integrations/README.md)
   * [Solana](integrations/solana.md)
   * [Eclipse](integrations/eclipse.md)
+  * [Monad](integrations/monad.md)
 * [The AllDomains Experience](the-alldomains-experience/README.md)
   * [Referral Program](the-alldomains-experience/referral-program.md)
   * [On Eclipse](the-alldomains-experience/on-eclipse.md)
