@@ -12,7 +12,7 @@ Having renewable domain names prevents people from squatting on a whole bag of d
 
 **Hybrid Domain Names**
 
-.ID was a world-first iteration of a hybrid TLD across all blockchain platforms. Claiming an .ID domain name allows users to make use of the same domain name on both Web2 and associate it with their desired Solana Public Key, allowing users and projects to extract the maximum out of their social… .ID.
+.ID was a world-first iteration of a hybrid TLD across all blockchain platforms. Claiming an 🥚.ID domain name allows users to make use of the same domain name on both Web2 and associate it with their desired Solana Public Key, allowing users and projects to extract the maximum out of their social… .ID.
 
 
 

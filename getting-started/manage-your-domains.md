@@ -6,7 +6,7 @@ To manage your domains, go to[ ](https://abc.onsol.io/)[alldomains.id](https://a
 
 Once you do so, you will be greeted by the following interface:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Your Profile Dashboard</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Your Profile Dashboard</p></figcaption></figure>
 
 ### Extend/Renew domain
 
