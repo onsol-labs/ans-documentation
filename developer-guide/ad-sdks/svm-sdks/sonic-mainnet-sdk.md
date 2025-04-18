@@ -36,8 +36,8 @@ async function resolveDomain(domain){
     return await parser.getOwnerFromDomainTld(domain);
 }
 
-//get the owner pubkey of "miester.turbo";
-resolveDomain("miester.turbo");
+//get the owner pubkey of "miester.sonic";
+resolveDomain("miester.sonic");
 
 ```
 
@@ -125,8 +125,8 @@ const connection = new Connection(RPC_URL);
     return ownedDomainsFromTld;
 }
 
-// get all owned domains in the ".turbo" Tld, without the "."
-getOwnedDomainsFromTld(new PublicKey(""), "turbo");
+// get all owned domains in the ".sonic" Tld, without the "."
+getOwnedDomainsFromTld(new PublicKey(""), "sonic");
 </code></pre>
 
 **b. Get all only unwrapped owned domains from a specific TLD**
@@ -152,8 +152,8 @@ async function getOwnedUnwrappedDomainsFromTld(owner, tld){
     return ownedUnwrappedDomainsFromTld;
 }
 
-// get owned unwraped domains in the ".turbo" Tld, without the "."
-getOwnedUnwrappedDomainsFromTld(new PublicKey(""), "turbo");
+// get owned unwraped domains in the ".sonic" Tld, without the "."
+getOwnedUnwrappedDomainsFromTld(new PublicKey(""), "sonic");
 ```
 
 #### 5.  Get all active AllDomains TLDs
@@ -162,7 +162,7 @@ getOwnedUnwrappedDomainsFromTld(new PublicKey(""), "turbo");
 import { getAllTld } from "@onsol/tldparser";
 import { Connection } from "@solana/web3.js";
 
-const RPC_URL = 'https://devnet.sonic.game/';
+export const SONIC_MAINNET = "https://rpc.mainnet-alpha.sonic.game/";
 
 // initialize a Solana Connection
 const connection = new Connection(RPC_URL);
@@ -177,7 +177,7 @@ const allTlds = await getAllTld(connection);
 import { NameRecordHeader, TldParser, findAllDomainsForTld, getAllTld } from "@onsol/tldparser";
 import { Connection } from "@solana/web3.js";
 
-const RPC_URL = 'https://devnet.sonic.game/';
+export const SONIC_MAINNET = "https://rpc.mainnet-alpha.sonic.game/";
 
 // initialize a Solana Connection
 const connection = new Connection(RPC_URL);
@@ -255,7 +255,7 @@ console.log(await fetchMainDomain(CONNECTION, "2EGGxj2qbNAJNgLCPKca8sxZYetyTjnoR
 //     nameAccount: PublicKey [PublicKey(9YzfCEHb62bQ47snUyjkxhC9Eb6y7CSodK3m8CKWstjV)] {
 //       _bn: <BN: 7f0fb1f72ae0af9c5e7f5e4190d02ed2a720e88fb5787425157b9a9ec3fc39ec>
 //     },
-//     tld: '.abc',
+//     tld: '.sonic',
 //     domain: 'miester'
 //   }
 ```
@@ -434,7 +434,7 @@ async function getAllRegisteredDomains(
 }
 
 async function main() {
-    // or ".eyekon" or ".superteam" or ".monke"
+    // or ".sonic" or ".superteam" or ".monke"
     // if tldExpected is undefined it will grab all domains
     const tldExpected: string | undefined = ".zk";
     // if set true it will grab only domains and no nfts
