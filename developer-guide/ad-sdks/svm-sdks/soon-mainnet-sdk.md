@@ -126,7 +126,7 @@ const connection = new Connection(RPC_URL);
 }
 
 // get all owned domains in the ".soon" Tld, without the "."
-getOwnedDomainsFromTld(new PublicKey(""), "turbo");
+getOwnedDomainsFromTld(new PublicKey(""), "soon");
 </code></pre>
 
 **b. Get all only unwrapped owned domains from a specific TLD**
@@ -153,7 +153,7 @@ async function getOwnedUnwrappedDomainsFromTld(owner, tld){
 }
 
 // get owned unwraped domains in the ".soon" Tld, without the "."
-getOwnedUnwrappedDomainsFromTld(new PublicKey(""), "turbo");
+getOwnedUnwrappedDomainsFromTld(new PublicKey(""), "soon");
 ```
 
 #### 5.  Get all active AllDomains TLDs
@@ -434,7 +434,7 @@ async function getAllRegisteredDomains(
 }
 
 async function main() {
-    // or ".eyekon" or ".superteam" or ".monke"
+    // or ".soon" or ".superteam" or ".monke"
     // if tldExpected is undefined it will grab all domains
     const tldExpected: string | undefined = ".zk";
     // if set true it will grab only domains and no nfts

@@ -1,4 +1,4 @@
-# Solana SDK
+# Solana mainnet SDK
 
 ### How to integrate AllDomains Protocol:
 
@@ -36,8 +36,8 @@ async function resolveDomain(domain){
     return await parser.getOwnerFromDomainTld(domain);
 }
 
-//get the owner pubkey of "miester.abc";
-resolveDomain("miester.abc");
+//get the owner pubkey of "miester.solana";
+resolveDomain("miester.solana");
 
 //get the owner pubkey of "miester.bonk"
 resolveDomain("miester.bonk");
@@ -131,8 +131,8 @@ const connection = new Connection(RPC_URL);
     return ownedDomainsFromTld;
 }
 
-//get all owned domains in the ".abc" Tld, without the "."
-getOwnedDomainsFromTld(new PublicKey(""), "abc");
+//get all owned domains in the ".solana" Tld, without the "."
+getOwnedDomainsFromTld(new PublicKey(""), "solana");
 
 //get all owned domains in the ".bonk" Tld, without the "."
 getOwnedDomainsFromTld(new PublicKey(""), "bonk");
@@ -164,8 +164,8 @@ async function getOwnedUnwrappedDomainsFromTld(owner, tld){
     return ownedUnwrappedDomainsFromTld;
 }
 
-// get owned unwraped domains in the ".abc" Tld, without the "."
-getOwnedUnwrappedDomainsFromTld(new PublicKey(""), "abc");
+// get owned unwraped domains in the ".solana" Tld, without the "."
+getOwnedUnwrappedDomainsFromTld(new PublicKey(""), "solana");
 
 // get owned unwraped domains in the ".bonk" Tld
 getOwnedUnwrappedDomainsFromTld(new PublicKey(""), "bonk");
@@ -273,7 +273,7 @@ console.log(await fetchMainDomain(CONNECTION, "2EGGxj2qbNAJNgLCPKca8sxZYetyTjnoR
 //     nameAccount: PublicKey [PublicKey(9YzfCEHb62bQ47snUyjkxhC9Eb6y7CSodK3m8CKWstjV)] {
 //       _bn: <BN: 7f0fb1f72ae0af9c5e7f5e4190d02ed2a720e88fb5787425157b9a9ec3fc39ec>
 //     },
-//     tld: '.abc',
+//     tld: '.solana',
 //     domain: 'miester'
 //   }
 ```
