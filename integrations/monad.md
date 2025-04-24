@@ -5,8 +5,6 @@
 | Name            | About                                             |
 | --------------- | ------------------------------------------------- |
 | **Haha Wallet** | [https://x.com/haha\_app](https://x.com/haha_app) |
-| **TBA**         |                                                   |
-| **TBA**         |                                                   |
 
 ## Tools:
 
