@@ -1,5 +1,15 @@
 # Monad
 
+## Wallets:
+
+| Name            | About                                             |
+| --------------- | ------------------------------------------------- |
+| **Haha Wallet** | [https://x.com/haha\_app](https://x.com/haha_app) |
+| **TBA**         |                                                   |
+| **TBA**         |                                                   |
+
+## Tools:
+
 | Name                | About                                                                |
 | ------------------- | -------------------------------------------------------------------- |
 | **Narwhal Finance** | [https://testnet.narwhal.finance/](https://testnet.narwhal.finance/) |
