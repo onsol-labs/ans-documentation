@@ -36,6 +36,7 @@
   * [Eclipse](integrations/eclipse.md)
   * [Monad](integrations/monad.md)
   * [SOON SVM](integrations/soon-svm.md)
+  * [Sonic SVM](integrations/sonic-svm.md)
 * [The AllDomains Experience](the-alldomains-experience/README.md)
   * [Referral Program](the-alldomains-experience/referral-program.md)
   * [On Eclipse](the-alldomains-experience/on-eclipse.md)
