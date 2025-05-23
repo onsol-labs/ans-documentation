@@ -49,6 +49,8 @@
   * [Marketing your TLD](alldomains-pools-v1.0/marketing-your-tld.md)
   * [Claiming rewards](alldomains-pools-v1.0/claiming-rewards.md)
   * [Reclaim Your Tokens](alldomains-pools-v1.0/reclaim-your-tokens.md)
+* [.sol PLUS domain names](.sol-plus-domain-names/README.md)
+  * [FAQ](.sol-plus-domain-names/faq.md)
 * [.Token Domain Names](.token-domain-names/README.md)
   * [How does {ticker}.token work?](.token-domain-names/how-does-ticker-.token-work.md)
   * [How to register a .token domain name](.token-domain-names/how-to-register-a-.token-domain-name.md)
