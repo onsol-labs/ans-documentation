@@ -8,8 +8,6 @@
 * Partnership revenue shared with you, SNS, and AllDomains
 * Prevention of domain dormancy and squatting
 
-
-
 ***
 
 ### How Does .sol PLUS Work?
@@ -28,7 +26,17 @@ This process is permanent and irreversible, so upgrading your domain commits you
 * If you sell your .sol PLUS domain, the new owner will be responsible for renewal fees.
 * There is a 50-day grace period after expiration to renew your domain before it is returned to AllDomains and made available for resale.
 
-Renewal notifications will be sent via Dialect, Email, and Telegram to keep you informed.
+Renewal notifications will be sent via Dialect, Email, and Telegram to keep you informed.\
+\
+Renewal costs:\
+**Upgrader:** \
+$0/year (renew must be done yearly)\
+**Rest:**\
+1 char domains $375/yr\
+2 char domains $350/yr\
+3 char domains $320/yr\
+4 char domains $80/yr\
+5+ char domains $10/yr
 
 ***
 
@@ -44,7 +52,15 @@ Every time a .sol PLUS domain generates revenue through sales or renewals, the p
 
 * The upgrader receives 40% of all future royalties, including secondary sales and renewals.
 * AllDomains and SNS share the remaining royalties.
-* Royalties are tracked and paid out automatically on-chain with every transaction generating revenue.
+* Royalties are tracked and paid out automatically on-chain with every transaction generating revenue.\
+  \
+  E.G.:
+
+You upgrade 1.sol to the 1.sol PLUS system\
+You then sell this domain for 100 $SOL\
+You receive: 95 $SOL + 40% Royalties (2 $SOL)\
+AllDomains receives: 40% Royalties (2 $SOL)\
+SNS receives: 20% Royalties (1 $SOL)&#x20;
 
 ### Benefits of Upgrading to .sol PLUS
 
