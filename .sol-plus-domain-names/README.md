@@ -60,7 +60,9 @@ You upgrade 1.sol to the 1.sol PLUS system\
 You then sell this domain for 100 $SOL\
 You receive: 95 $SOL + 40% Royalties (2 $SOL)\
 AllDomains receives: 40% Royalties (2 $SOL)\
-SNS receives: 20% Royalties (1 $SOL)&#x20;
+SNS receives: 20% Royalties (1 $SOL) \
+\
+If the new buyer sells the domain again, the royalties generated will once again be split at the same ratio between you, AllDomains and SNS.
 
 ### Benefits of Upgrading to .sol PLUS
 
