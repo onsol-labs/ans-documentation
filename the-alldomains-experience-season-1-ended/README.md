@@ -1,8 +1,6 @@
-# The AllDomains Experience
+# The AllDomains Experience - Season 1 Ended
 
-**Season 1 Summary:**
-
-Start Date: **June 24th 2024**
+**Season 1 Ended on September 9th at 7AM UTC**
 
 **TL;DR:** The higher your points, the better your rewards
 
