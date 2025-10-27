@@ -18,3 +18,5 @@
 | **Montools Bulk Transfer** | [https://montools.xyz/bulktransfer](https://montools.xyz/bulktransfer)         |
 | **Monorail**               | [https://testnet-preview.monorail.xyz/](https://testnet-preview.monorail.xyz/) |
 | **MadnessExchange**        | [https://madness.finance/](https://madness.finance/)                           |
+| **Gemoon**                 | [https://gemoon.xyz/](https://gemoon.xyz/)                                     |
+| **Purps Exchange**         | [https://app.purps.xyz/swap](https://app.purps.xyz/swap)                       |
