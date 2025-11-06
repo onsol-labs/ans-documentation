@@ -23,7 +23,7 @@
 
 | Name               | About                                                        |
 | ------------------ | ------------------------------------------------------------ |
-| **SolanaFM**       | [https://twitter.com/solanafm](https://twitter.com/solanafm) |
+| **SolanaFM**       | [https://solana.fm/](https://solana.fm/)                     |
 | **Solscan**        | [https://solscan.io/](https://solscan.io/)                   |
 | **SolanaExplorer** | [https://explorer.solana.com/](https://explorer.solana.com/) |
 

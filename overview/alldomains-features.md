@@ -20,7 +20,7 @@ Having renewable domain names prevents people from squatting on a whole bag of d
 
 While most of AllDomains is currently built on Solana, our long-term vision extends beyond a single blockchain. Our aim is to become a cross-chain solution, facilitating the bridging of domains from other blockchains to Solana and vice versa.
 
-We are excited to announce that AllDomains is **now live on Eclipse and SOON SVM**, further expanding our reach. Additionally, we will be **live on Monad as soon as its Mainnet launches.** Our commitment to seamless interoperability continues as we connect domains with major blockchains like Ethereum, Bitcoin, Arbitrum, and more.
+We are excited to announce that AllDomains is **now live on Eclipse, Sonic, and SOON SVMs**, further expanding our reach. Additionally, we will be **live on Monad as soon as its Mainnet launches.** Our commitment to seamless interoperability continues as we connect domains with major blockchains like Ethereum, Bitcoin, Arbitrum, and more.
 
 
 
