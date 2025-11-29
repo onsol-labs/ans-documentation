@@ -27,7 +27,7 @@
       * [Sonic mainnet SDK](developer-guide/ad-sdks/svm-sdks/sonic-mainnet-sdk.md)
     * [EVM SDKs](developer-guide/ad-sdks/evm-sdks/README.md)
       * [Monad SDK](developer-guide/ad-sdks/evm-sdks/monad-sdk.md)
-  * [Records](developer-guide/records.md)
+  * [Records (SVM)](developer-guide/records-svm.md)
   * [Structure/Architecture](developer-guide/structure-architecture.md)
 * [Integrations](integrations/README.md)
   * [Solana](integrations/solana.md)

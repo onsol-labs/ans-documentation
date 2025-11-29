@@ -29,7 +29,7 @@ If you want your AllDomains asset to take precedence, move the .sol domain to an
 ### **Domain Records**
 
 You can edit your domain records by clicking the **Records** button under the domain name.\
-See the [Records](../developer-guide/records.md) section for the complete list.
+See the [Records](../developer-guide/records-svm.md) section for the complete list.
 
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>Edit Domain Records</p></figcaption></figure>
 
