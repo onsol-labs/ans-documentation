@@ -21,4 +21,4 @@ Crypto bridges are software protocols that facilitate communication between diff
 
 This is another step towards AllDomains being able to provide multi-chain identities and a unified social graph.\
 \
-Bridge your tokens here: [https://bridge.alldomains.id/](https://bridge.alldomains.id/)\
+Bridge your tokens here: [https://bridge.alldomains.id/](https://bridge.alldomains.id/)<br>

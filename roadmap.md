@@ -55,8 +55,7 @@ The quarter opens with our strategic validator partnership alongside DeFiDev Cor
 
 Our existing bridge evolves into Bridge 2.0, expanding from today’s limited routes into a flagship product that scales chain by chain and asset by asset. Together with advanced swaps, it enables seamless asset movement across chains and ecosystems.
 
-\
-
+<br>
 
 With Monad mainnet expected, we're positioned to be day-one ready with our massive testnet adoption. Meanwhile, our swaps evolution becomes more than just a feature; it’s a comprehensive liquidity layer across Solana and beyond, enabling cross-chain value transfer and friction-less user experiences.
 
@@ -96,4 +95,4 @@ That's why we built $ADNS differently: community-first, with real distribution, 
 
 This isn't about hype. It's about building the intelligent rails of Web3 identity and the economic infrastructure of tomorrow. And we're just getting started!
 
-\
+<br>

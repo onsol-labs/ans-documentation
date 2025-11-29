@@ -1,7 +1,6 @@
 # Verify with Matrica
 
-If you're a member of a community that's implemented the Matrica domain name gating for their Discord, it's crucial to follow these steps for verification:\
-
+If you're a member of a community that's implemented the Matrica domain name gating for their Discord, it's crucial to follow these steps for verification:<br>
 
 1\. Go to [https://matrica.io/](https://matrica.io/) and click on the connect button. You can connect either with a Solana Wallet or your Discord account!
 

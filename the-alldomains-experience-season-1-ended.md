@@ -28,8 +28,8 @@ Some activities that will get you points during Season 1 include:
 
 Season 1 will unquestionably have more tasks that could earn you points.&#x20;
 
-Additionally, the total points awarded for any given task are subject to change at any point throughout the Seasons. Please read our [Terms and Conditions.](broken-reference)
+Additionally, the total points awarded for any given task are subject to change at any point throughout the Seasons. Please read our [Terms and Conditions.](/broken/pages/Dh1tzZ40mAuzqxUx65Ds)
 
 What other tasks you ask? If you are observant you may catch some hints...
 
-\
+<br>

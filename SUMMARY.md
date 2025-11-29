@@ -18,7 +18,7 @@
 * [Getting a TLD](getting-a-tld/README.md)
   * [Disclaimer](getting-a-tld/disclaimer.md)
 * [Developer Guide](developer-guide/README.md)
-  * [Programs](developer-guide/programs.md)
+  * [Programs (SVM) & Smart Contracts (EVM)](developer-guide/programs-svm-and-smart-contracts-evm.md)
   * [AD SDKs](developer-guide/ad-sdks/README.md)
     * [SVM SDKs](developer-guide/ad-sdks/svm-sdks/README.md)
       * [Solana mainnet SDK](developer-guide/ad-sdks/svm-sdks/solana-mainnet-sdk.md)

@@ -71,15 +71,13 @@ If the new buyer sells the domain again, the royalties generated will once again
 * Ongoing Royalties: Earn passive income from your domain’s future sales and renewals.
 * Renewability: Keep your domain active and avoid losing it due to dormancy.
 * Market Liquidity: Domains that are abandoned or not renewed can return to the market, increasing availability.
-* Partnership: Become an active participant in the Solana naming ecosystem and share in the revenue generated.\
-
+* Partnership: Become an active participant in the Solana naming ecosystem and share in the revenue generated.<br>
 
 #### For SNS
 
 * Gains new, recurring revenue streams from renewals and sales.
 * Helps revive dormant or inactive domains and increase market turnover.
-* Maintains control of the .sol TLD while partnering to improve the ecosystem.\
-
+* Maintains control of the .sol TLD while partnering to improve the ecosystem.<br>
 
 #### For AllDomains
 

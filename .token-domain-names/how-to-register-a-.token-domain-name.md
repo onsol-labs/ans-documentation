@@ -23,7 +23,6 @@ Eligible projects will then be allowed to claim their .token domain name.&#x20;
 Similar to all our standard domains, token domains are renewable. However, please note that we withhold the right to revoke the token domain if the token fails subsequent audits and you fail to make the necessary improvements.
 
 Claim your domain name, and you’re all set!\
-\
+<br>
 
-
-\
+<br>

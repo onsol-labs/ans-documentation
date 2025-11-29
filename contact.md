@@ -8,4 +8,4 @@ Discord -> [https://discord.gg/alldomains](https://discord.gg/alldomains)
 
 Email -> [contact@alldomains.id](mailto:contact@alldomains.id)
 
-Telegram -> [https://t.me/AllDomainsID](https://t.me/AllDomainsID)\
+Telegram -> [https://t.me/AllDomainsID](https://t.me/AllDomainsID)<br>
