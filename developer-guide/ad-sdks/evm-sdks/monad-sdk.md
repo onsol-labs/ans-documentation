@@ -8,7 +8,7 @@ The AllDomains Monad EVM SDK is a library designed to interact with top-level do
 
 ### Supported Chains
 
-* Monad Testnet (EVM)
+* Monad (EVM)
 
 ### Installation
 
@@ -27,7 +27,7 @@ import { TldParser, NetworkWithRpc } from '@onsol/tldparser';
 import { getAddress } from 'ethers';
 
 // Set up RPC URL and initialize a network instance
-const RPC_URL = 'https://testnet-rpc.monad.xyz';
+const RPC_URL = 'https://rpc.monad.xyz';
 const PUBLIC_KEY = getAddress('0x94Bfb92da83B27B39370550CA038Af96d182462f');
 const settings = new NetworkWithRpc('monad', 10143, RPC_URL);
 
