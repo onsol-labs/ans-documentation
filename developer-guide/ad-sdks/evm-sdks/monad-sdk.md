@@ -29,7 +29,7 @@ import { getAddress } from 'ethers';
 // Set up RPC URL and initialize a network instance
 const RPC_URL = 'https://rpc.monad.xyz';
 const PUBLIC_KEY = getAddress('0x94Bfb92da83B27B39370550CA038Af96d182462f');
-const settings = new NetworkWithRpc('monad', 10143, RPC_URL);
+const settings = new NetworkWithRpc('monad', 143, RPC_URL);
 
 // Create an instance of TldParser
 const parser = new TldParser(settings, 'monad');
