@@ -63,6 +63,19 @@ const nameRecord = await parser.getNameRecordFromDomainTld('miester.mon');
 // Output: NameRecord { created_at, domain_name, expires_at, main_domain_address, tld, transferrable }
 ```
 
+#### 6. Get Main Domain (Favourite Domain)
+
+<pre class="language-javascript"><code class="lang-javascript">const ownedDomainsReceived = await parser.getMainDomain(PUBLIC_KEY) ;
+<strong>// Output: &#x3C;NameRecord> {
+</strong>//    created_at: '1795616523',
+//    domain_name: 'miester',
+//    expires_at: '1795616823',
+//    main_domain_address: PUBLIC_KEY,
+//    tld: '.mon',
+//    transferrable: true,
+// };
+</code></pre>
+
 ### Core Methods (Available on Both Chains)
 
 * `getAllUserDomains(userAccount)`: Retrieves all domains owned by a user.
