@@ -10,6 +10,17 @@ The AllDomains Monad EVM SDK is a library designed to interact with top-level do
 
 * Monad (EVM)
 
+### Supported TLDs
+
+* .mon
+* .nad
+* .chog
+* .mokadel
+* .molandak
+* .mouch
+* .moyaki
+* .salmonad
+
 ### Installation
 
 To install the AllDomains Monad EVM SDK, add the following line to your `package.json` or run the command:
