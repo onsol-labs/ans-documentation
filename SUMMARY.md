@@ -35,6 +35,7 @@
   * [Monad](integrations/monad.md)
   * [SOON SVM](integrations/soon-svm.md)
   * [Sonic SVM](integrations/sonic-svm.md)
+* [Records API](records-api.md)
 * [The AllDomains Experience - Season 1 Ended](the-alldomains-experience-season-1-ended.md)
 * [Partner Guide](partner-guide/README.md)
   * [How to set up Matrica](partner-guide/how-to-set-up-matrica.md)
@@ -56,4 +57,3 @@
 * [Brand kit](brand-kit.md)
 * [Roadmap](roadmap.md)
 * [Contact](contact.md)
-* [Records API](records-api.md)
