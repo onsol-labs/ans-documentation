@@ -7,6 +7,10 @@ description: >-
 
 # Records API
 
+## Records API Documentation
+
+This document covers the new Records API added to `@onsol/tldparser`. These features provide unified access to domain records across both **Solana (SVM)** and **Monad (EVM)** chains.
+
 ### Overview
 
 The Records API enables developers to:
@@ -26,15 +30,15 @@ npm/yarn install @onsol/tldparser
 
 ```typescript
 import { TldParser, Record, NetworkWithRpc } from '@onsol/tldparser';
-import { Connection, PublicKey } from '@solana/web3.js';
+import { Connection } from '@solana/web3.js';
 
 // Solana
 const connection = new Connection('https://api.mainnet-beta.solana.com');
-const svmParser = new TldParserSvm(connection);
+const parser = new TldParser(connection);
 
 // Monad (EVM)
 const evmSettings = new NetworkWithRpc('monad', 143, 'https://rpc.monad.xyz');
-const evmParser = new TldParserEvm(evmSettings);
+const evmParser = new TldParser(evmSettings, 'monad');
 ```
 
 ***
@@ -339,39 +343,39 @@ The namehash is computed using the ANS-compatible algorithm (same as ENS but wit
 ### Complete Example
 
 ```typescript
-import { TldParserSvm, TldParserEvm, Record, NetworkWithRpc } from '@onsol/tldparser';
+import { TldParser, Record, NetworkWithRpc } from '@onsol/tldparser';
 import { Connection } from '@solana/web3.js';
 
 async function main() {
     // === Solana ===
     const connection = new Connection('https://api.mainnet-beta.solana.com');
-    const svmParser = new TldParserSvm(connection);
+    const parser = new TldParser(connection);
 
     // Get a single record
-    const svmTwitter = await svmParser.getRecord('miester.poor', Record.Twitter);
-    console.log('SVM Twitter:', svmTwitter);
+    const twitter = await parser.getRecord('miester.poor', Record.Twitter);
+    console.log('Twitter:', twitter);
 
     // Get multiple records
-    const svmRecords = await svmParser.getRecords('miester.poor', [
+    const records = await parser.getRecords('miester.poor', [
         Record.Twitter,
         Record.Discord,
         Record.Pic,
     ]);
-    console.log('SVM Records:', svmRecords);
+    console.log('Records:', records);
 
     // Get avatar
-    const svmAvatar = await svmParser.getAvatar('miester.poor');
-    console.log('SVM Avatar:', svmAvatar);
+    const avatar = await parser.getAvatar('miester.poor');
+    console.log('Avatar:', avatar);
 
     // Batch main domain lookup
-    const svmMainDomains = await svmParser.getMainDomains([
+    const mainDomains = await parser.getMainDomains([
         'GjJCJ1gzqKBp9Mw8bELDJaZG6Lp8sHXTcUb5YWPXQZJ3',
     ]);
-    console.log('SVM Main Domains:', svmMainDomains);
+    console.log('Main Domains:', mainDomains);
 
     // === Monad (EVM) ===
     const evmSettings = new NetworkWithRpc('monad', 143, 'https://rpc.monad.xyz');
-    const evmParser = new TldParserEvm(evmSettings);
+    const evmParser = new TldParser(evmSettings, 'monad');
 
     // Get a single record
     const evmTwitter = await evmParser.getRecord('miester.mon', Record.Twitter);
