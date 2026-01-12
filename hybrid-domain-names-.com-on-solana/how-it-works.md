@@ -19,7 +19,7 @@ The Web3 layer adds:
 
 Web2 remains the legal root.
 
-The blockchain upgrades ownership and utility — it does not replace domain law or DNS.
+The blockchain upgrades ownership and utility it does not replace domain law or DNS.
 
 ***
 
