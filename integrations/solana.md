@@ -12,12 +12,10 @@
 
 ### **Marketplaces:**
 
-| Name           | About                                                            |
-| -------------- | ---------------------------------------------------------------- |
-| **MagicEden**  | [https://magiceden.io/](https://magiceden.io/)                   |
-| **Hyperspace** | [https://x.com/hyperspacexyz](https://twitter.com/hyperspacexyz) |
-| **Hadeswap**   | [https://x.com/hadeswap](https://twitter.com/hadeswap)           |
-| **Tensor**     | [https://www.tensor.trade/](https://www.tensor.trade/)           |
+| Name          | About                                                  |
+| ------------- | ------------------------------------------------------ |
+| **MagicEden** | [https://magiceden.io/](https://magiceden.io/)         |
+| **Tensor**    | [https://www.tensor.trade/](https://www.tensor.trade/) |
 
 ### Explorers:
 

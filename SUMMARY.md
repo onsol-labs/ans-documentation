@@ -43,7 +43,6 @@
   * [Monad](integrations/monad.md)
   * [SOON SVM](integrations/soon-svm.md)
   * [Sonic SVM](integrations/sonic-svm.md)
-* [The AllDomains Experience - Season 1 Ended](the-alldomains-experience-season-1-ended.md)
 * [Partner Guide](partner-guide/README.md)
   * [How to set up Matrica](partner-guide/how-to-set-up-matrica.md)
 * [.sol PLUS domain names](.sol-plus-domain-names/README.md)
