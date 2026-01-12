@@ -185,43 +185,6 @@ const avatar = await parser.getAvatar('miester.poor', {
 
 ***
 
-#### `getMainDomains(addresses)`
-
-Get main domains for multiple wallet addresses in a single call.
-
-**Parameters:**
-
-| Parameter   | Type       | Description               |
-| ----------- | ---------- | ------------------------- |
-| `addresses` | `string[]` | Array of wallet addresses |
-
-**Returns:** `Promise<(string | null)[]>`
-
-**Example:**
-
-```typescript
-// Solana
-const mainDomains = await svmParser.getMainDomains([
-    'GjJCJ1gzqKBp9Mw8bELDJaZG6Lp8sHXTcUb5YWPXQZJ3',
-    'AnotherPubkeyHere...',
-]);
-// => ["miester.poor", null]
-
-// Monad
-const mainDomains = await evmParser.getMainDomains([
-    '0x94Bfb92da83B27B39370550CA038Af96d182462f',
-    '0x0000000000000000000000000000000000000000',
-]);
-// => ["miester.mon", null]
-```
-
-**Performance:**
-
-* **SVM:** Uses `getMultipleAccountsInfo` for batch fetching
-* **EVM:** Uses parallel contract calls with `Promise.all`
-
-***
-
 ### Record Types
 
 ```typescript
