@@ -525,3 +525,8 @@ async function getMainDomainsSample(connection: Connection, data: any[]) {
   return mainDomains
 }
 ```
+
+
+
+Solana kit:\
+[https://www.npmjs.com/package/@onsol/tldparser-kit](https://www.npmjs.com/package/@onsol/tldparser-kit)
